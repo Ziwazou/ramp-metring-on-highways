@@ -1,0 +1,17 @@
+***Starting server on port 56748 ***
+Loading net-file from '../Simulation-with-Trafic-Light/sumo.net.xml' ... done (4ms).
+Loading additional-files from '../Simulation-with-Trafic-Light/sumo.add.xml' ... done (2ms).
+Loading done.
+Simulation started with time: 0.00.
+Error: tcpip::Socket::recvAndCheck @ recv: peer shutdown
+Quitting (on error).
+Simulation ended at time: 0.00.
+Performance:
+ Duration: 0.45s
+ TraCI-Duration: 0.00s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles:
+ Inserted: 0
+ Running: 0
+ Waiting: 0

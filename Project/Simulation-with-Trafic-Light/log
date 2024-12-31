@@ -1,0 +1,17 @@
+***Starting server on port 57383 ***
+Loading net-file from './sumo.net.xml' ... done (6ms).
+Loading additional-files from './sumo.add.xml' ... done (1ms).
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 132.00.
+Performance:
+ Duration: 72.41s
+ TraCI-Duration: 0.07s
+ Real time factor: 1.82293
+ UPS: 1.463866
+Vehicles:
+ Inserted: 8
+ Running: 1
+ Waiting: 0
+DijkstraRouter answered 8 queries and explored 2.00 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.00ms on average).

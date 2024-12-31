@@ -1,0 +1,1467 @@
+***Starting server on port 56992 ***
+Loading net-file from '../Simulation-with-Trafic-Light/sumo.net.xml' ... done (4ms).
+Loading additional-files from '../Simulation-with-Trafic-Light/sumo.add.xml' ... done (1ms).
+Loading done.
+Simulation started with time: 0.00.
+Warning: Teleporting vehicle 'morning_ramp.28'; waited too long (yield), lane='E2_0', time=463.00.
+Warning: Vehicle 'morning_ramp.28' ends teleporting on edge 'E1', time=463.00.
+Warning: Teleporting vehicle 'morning_ramp.29'; waited too long (yield), lane='E2_0', time=769.00.
+Warning: Vehicle 'morning_ramp.29' ends teleporting on edge 'E1', time=770.00.
+Warning: Teleporting vehicle 'morning_ramp.30'; waited too long (yield), lane='E2_0', time=1073.00.
+Warning: Vehicle 'morning_ramp.30' ends teleporting on edge 'E1', time=1073.00.
+Warning: Teleporting vehicle 'morning_ramp.31'; waited too long (yield), lane='E2_0', time=1378.00.
+Warning: Vehicle 'morning_ramp.31' ends teleporting on edge 'E1', time=1378.00.
+Warning: Teleporting vehicle 'morning_ramp.32'; waited too long (yield), lane='E2_0', time=1683.00.
+Warning: Vehicle 'morning_ramp.32' ends teleporting on edge 'E1', time=1683.00.
+Warning: Teleporting vehicle 'morning_ramp.33'; waited too long (yield), lane='E2_0', time=1987.00.
+Warning: Vehicle 'morning_ramp.33' ends teleporting on edge 'E1', time=1987.00.
+Warning: Teleporting vehicle 'morning_ramp.34'; waited too long (yield), lane='E2_0', time=2293.00.
+Warning: Vehicle 'morning_ramp.34' ends teleporting on edge 'E1', time=2296.00.
+Warning: Teleporting vehicle 'morning_ramp.35'; waited too long (yield), lane='E2_0', time=2597.00.
+Warning: Vehicle 'morning_ramp.35' ends teleporting on edge 'E1', time=2597.00.
+Warning: Teleporting vehicle 'morning_ramp.36'; waited too long (yield), lane='E2_0', time=2903.00.
+Warning: Vehicle 'morning_ramp.36' ends teleporting on edge 'E1', time=2903.00.
+Warning: Teleporting vehicle 'morning_ramp.37'; waited too long (yield), lane='E2_0', time=3209.00.
+Warning: Vehicle 'morning_ramp.37' ends teleporting on edge 'E1', time=3210.00.
+Warning: Teleporting vehicle 'morning_ramp.38'; waited too long (yield), lane='E2_0', time=3514.00.
+Warning: Vehicle 'morning_ramp.38' ends teleporting on edge 'E1', time=3515.00.
+Warning: Teleporting vehicle 'morning_ramp.39'; waited too long (yield), lane='E2_0', time=3818.00.
+Warning: Vehicle 'morning_ramp.39' ends teleporting on edge 'E1', time=3818.00.
+Warning: Teleporting vehicle 'morning_ramp.40'; waited too long (yield), lane='E2_0', time=4124.00.
+Warning: Vehicle 'morning_ramp.40' teleports beyond arrival edge 'E1', time=4128.00.
+Warning: Teleporting vehicle 'morning_ramp.41'; waited too long (yield), lane='E2_0', time=4429.00.
+Warning: Vehicle 'morning_ramp.41' ends teleporting on edge 'E1', time=4430.00.
+Warning: Teleporting vehicle 'morning_ramp.42'; waited too long (yield), lane='E2_0', time=4733.00.
+Warning: Vehicle 'morning_ramp.42' ends teleporting on edge 'E1', time=4733.00.
+Warning: Teleporting vehicle 'morning_ramp.43'; waited too long (yield), lane='E2_0', time=5038.00.
+Warning: Vehicle 'morning_ramp.43' ends teleporting on edge 'E1', time=5038.00.
+Warning: Teleporting vehicle 'morning_ramp.44'; waited too long (yield), lane='E2_0', time=5344.00.
+Warning: Vehicle 'morning_ramp.44' ends teleporting on edge 'E1', time=5344.00.
+Warning: Teleporting vehicle 'morning_ramp.45'; waited too long (yield), lane='E2_0', time=5649.00.
+Warning: Vehicle 'morning_ramp.45' ends teleporting on edge 'E1', time=5649.00.
+Warning: Teleporting vehicle 'morning_ramp.46'; waited too long (yield), lane='E2_0', time=5954.00.
+Warning: Vehicle 'morning_ramp.46' ends teleporting on edge 'E1', time=5954.00.
+Warning: Teleporting vehicle 'morning_ramp.47'; waited too long (yield), lane='E2_0', time=6259.00.
+Warning: Vehicle 'morning_ramp.47' ends teleporting on edge 'E1', time=6259.00.
+Warning: Teleporting vehicle 'morning_ramp.48'; waited too long (yield), lane='E2_0', time=6563.00.
+Warning: Vehicle 'morning_ramp.48' ends teleporting on edge 'E1', time=6563.00.
+Warning: Teleporting vehicle 'morning_ramp.49'; waited too long (yield), lane='E2_0', time=6867.00.
+Warning: Vehicle 'morning_ramp.49' ends teleporting on edge 'E1', time=6867.00.
+Warning: Teleporting vehicle 'morning_ramp.50'; waited too long (yield), lane='E2_0', time=7172.00.
+Warning: Vehicle 'morning_ramp.50' ends teleporting on edge 'E1', time=7172.00.
+Warning: Teleporting vehicle 'morning_ramp.51'; waited too long (yield), lane='E2_0', time=7476.00.
+Warning: Vehicle 'morning_ramp.51' ends teleporting on edge 'E1', time=7476.00.
+Warning: Teleporting vehicle 'morning_ramp.52'; waited too long (yield), lane='E2_0', time=7780.00.
+Warning: Vehicle 'morning_ramp.52' ends teleporting on edge 'E1', time=7780.00.
+Warning: Teleporting vehicle 'morning_ramp.53'; waited too long (yield), lane='E2_0', time=8085.00.
+Warning: Vehicle 'morning_ramp.53' ends teleporting on edge 'E1', time=8085.00.
+Warning: Teleporting vehicle 'morning_ramp.54'; waited too long (yield), lane='E2_0', time=8391.00.
+Warning: Vehicle 'morning_ramp.54' ends teleporting on edge 'E1', time=8391.00.
+Warning: Teleporting vehicle 'morning_ramp.55'; waited too long (yield), lane='E2_0', time=8695.00.
+Warning: Vehicle 'morning_ramp.55' ends teleporting on edge 'E1', time=8695.00.
+Warning: Teleporting vehicle 'morning_ramp.56'; waited too long (yield), lane='E2_0', time=9001.00.
+Warning: Vehicle 'morning_ramp.56' ends teleporting on edge 'E1', time=9001.00.
+Warning: Teleporting vehicle 'morning_ramp.57'; waited too long (yield), lane='E2_0', time=9307.00.
+Warning: Vehicle 'morning_ramp.57' ends teleporting on edge 'E1', time=9307.00.
+Warning: Teleporting vehicle 'morning_ramp.58'; waited too long (yield), lane='E2_0', time=9612.00.
+Warning: Vehicle 'morning_ramp.58' ends teleporting on edge 'E1', time=9612.00.
+Warning: Teleporting vehicle 'morning_ramp.59'; waited too long (yield), lane='E2_0', time=9917.00.
+Warning: Vehicle 'morning_ramp.59' ends teleporting on edge 'E1', time=9917.00.
+Warning: Teleporting vehicle 'morning_ramp.60'; waited too long (yield), lane='E2_0', time=10221.00.
+Warning: Vehicle 'morning_ramp.60' ends teleporting on edge 'E1', time=10221.00.
+Warning: Teleporting vehicle 'morning_ramp.61'; waited too long (yield), lane='E2_0', time=10526.00.
+Warning: Vehicle 'morning_ramp.61' ends teleporting on edge 'E1', time=10526.00.
+Warning: Teleporting vehicle 'morning_ramp.62'; waited too long (yield), lane='E2_0', time=10831.00.
+Warning: Vehicle 'morning_ramp.62' ends teleporting on edge 'E1', time=10831.00.
+Warning: Teleporting vehicle 'morning_ramp.63'; waited too long (yield), lane='E2_0', time=11136.00.
+Warning: Vehicle 'morning_ramp.63' ends teleporting on edge 'E1', time=11136.00.
+Warning: Teleporting vehicle 'morning_ramp.64'; waited too long (yield), lane='E2_0', time=11440.00.
+Warning: Vehicle 'morning_ramp.64' ends teleporting on edge 'E1', time=11440.00.
+Warning: Teleporting vehicle 'morning_ramp.65'; waited too long (yield), lane='E2_0', time=11745.00.
+Warning: Vehicle 'morning_ramp.65' ends teleporting on edge 'E1', time=11745.00.
+Warning: Teleporting vehicle 'morning_ramp.66'; waited too long (yield), lane='E2_0', time=12049.00.
+Warning: Vehicle 'morning_ramp.66' ends teleporting on edge 'E1', time=12049.00.
+Warning: Teleporting vehicle 'morning_ramp.67'; waited too long (yield), lane='E2_0', time=12353.00.
+Warning: Vehicle 'morning_ramp.67' ends teleporting on edge 'E1', time=12353.00.
+Warning: Teleporting vehicle 'morning_ramp.68'; waited too long (yield), lane='E2_0', time=12657.00.
+Warning: Vehicle 'morning_ramp.68' ends teleporting on edge 'E1', time=12657.00.
+Warning: Teleporting vehicle 'morning_ramp.69'; waited too long (yield), lane='E2_0', time=12962.00.
+Warning: Vehicle 'morning_ramp.69' ends teleporting on edge 'E1', time=12962.00.
+Warning: Teleporting vehicle 'morning_ramp.70'; waited too long (yield), lane='E2_0', time=13266.00.
+Warning: Vehicle 'morning_ramp.70' ends teleporting on edge 'E1', time=13266.00.
+Warning: Teleporting vehicle 'morning_ramp.71'; waited too long (yield), lane='E2_0', time=13571.00.
+Warning: Vehicle 'morning_ramp.71' ends teleporting on edge 'E1', time=13571.00.
+Warning: Teleporting vehicle 'morning_ramp.72'; waited too long (yield), lane='E2_0', time=13877.00.
+Warning: Vehicle 'morning_ramp.72' ends teleporting on edge 'E1', time=13877.00.
+Warning: Teleporting vehicle 'morning_ramp.73'; waited too long (yield), lane='E2_0', time=14183.00.
+Warning: Vehicle 'morning_ramp.73' ends teleporting on edge 'E1', time=14183.00.
+Warning: Teleporting vehicle 'morning_ramp.74'; waited too long (yield), lane='E2_0', time=14488.00.
+Warning: Vehicle 'morning_ramp.74' ends teleporting on edge 'E1', time=14488.00.
+Warning: Teleporting vehicle 'morning_ramp.75'; waited too long (yield), lane='E2_0', time=14793.00.
+Warning: Vehicle 'morning_ramp.75' ends teleporting on edge 'E1', time=14793.00.
+Warning: Teleporting vehicle 'morning_ramp.76'; waited too long (yield), lane='E2_0', time=15097.00.
+Warning: Vehicle 'morning_ramp.76' ends teleporting on edge 'E1', time=15097.00.
+Warning: Teleporting vehicle 'morning_ramp.77'; waited too long (yield), lane='E2_0', time=15401.00.
+Warning: Vehicle 'morning_ramp.77' ends teleporting on edge 'E1', time=15401.00.
+Warning: Teleporting vehicle 'morning_ramp.78'; waited too long (yield), lane='E2_0', time=15708.00.
+Warning: Vehicle 'morning_ramp.78' ends teleporting on edge 'E1', time=15708.00.
+Warning: Teleporting vehicle 'morning_ramp.79'; waited too long (yield), lane='E2_0', time=16013.00.
+Warning: Vehicle 'morning_ramp.79' ends teleporting on edge 'E1', time=16013.00.
+Warning: Teleporting vehicle 'morning_ramp.80'; waited too long (yield), lane='E2_0', time=16318.00.
+Warning: Vehicle 'morning_ramp.80' ends teleporting on edge 'E1', time=16318.00.
+Warning: Teleporting vehicle 'morning_ramp.81'; waited too long (yield), lane='E2_0', time=16623.00.
+Warning: Vehicle 'morning_ramp.81' ends teleporting on edge 'E1', time=16623.00.
+Warning: Teleporting vehicle 'morning_ramp.82'; waited too long (yield), lane='E2_0', time=16928.00.
+Warning: Vehicle 'morning_ramp.82' ends teleporting on edge 'E1', time=16928.00.
+Warning: Teleporting vehicle 'morning_ramp.83'; waited too long (yield), lane='E2_0', time=17235.00.
+Warning: Vehicle 'morning_ramp.83' ends teleporting on edge 'E1', time=17235.00.
+Warning: Teleporting vehicle 'morning_ramp.84'; waited too long (yield), lane='E2_0', time=17541.00.
+Warning: Vehicle 'morning_ramp.84' ends teleporting on edge 'E1', time=17541.00.
+Warning: Teleporting vehicle 'morning_ramp.85'; waited too long (yield), lane='E2_0', time=17845.00.
+Warning: Vehicle 'morning_ramp.85' ends teleporting on edge 'E1', time=17845.00.
+Warning: Teleporting vehicle 'morning_ramp.86'; waited too long (yield), lane='E2_0', time=18150.00.
+Warning: Vehicle 'morning_ramp.86' ends teleporting on edge 'E1', time=18150.00.
+Warning: Teleporting vehicle 'morning_ramp.87'; waited too long (yield), lane='E2_0', time=18455.00.
+Warning: Vehicle 'morning_ramp.87' ends teleporting on edge 'E1', time=18455.00.
+Warning: Teleporting vehicle 'morning_ramp.88'; waited too long (yield), lane='E2_0', time=18760.00.
+Warning: Vehicle 'morning_ramp.88' ends teleporting on edge 'E1', time=18760.00.
+Warning: Teleporting vehicle 'morning_ramp.89'; waited too long (yield), lane='E2_0', time=19065.00.
+Warning: Vehicle 'morning_ramp.89' ends teleporting on edge 'E1', time=19065.00.
+Warning: Teleporting vehicle 'morning_ramp.90'; waited too long (yield), lane='E2_0', time=19372.00.
+Warning: Vehicle 'morning_ramp.90' ends teleporting on edge 'E1', time=19372.00.
+Warning: Teleporting vehicle 'morning_ramp.91'; waited too long (yield), lane='E2_0', time=19677.00.
+Warning: Vehicle 'morning_ramp.91' ends teleporting on edge 'E1', time=19677.00.
+Warning: Teleporting vehicle 'morning_ramp.92'; waited too long (yield), lane='E2_0', time=19981.00.
+Warning: Vehicle 'morning_ramp.92' ends teleporting on edge 'E1', time=19981.00.
+Warning: Teleporting vehicle 'morning_ramp.93'; waited too long (yield), lane='E2_0', time=20286.00.
+Warning: Vehicle 'morning_ramp.93' ends teleporting on edge 'E1', time=20286.00.
+Warning: Teleporting vehicle 'morning_ramp.94'; waited too long (yield), lane='E2_0', time=20592.00.
+Warning: Vehicle 'morning_ramp.94' ends teleporting on edge 'E1', time=20592.00.
+Warning: Teleporting vehicle 'morning_ramp.95'; waited too long (yield), lane='E2_0', time=20897.00.
+Warning: Vehicle 'morning_ramp.95' ends teleporting on edge 'E1', time=20897.00.
+Warning: Teleporting vehicle 'morning_ramp.96'; waited too long (yield), lane='E2_0', time=21202.00.
+Warning: Vehicle 'morning_ramp.96' ends teleporting on edge 'E1', time=21202.00.
+Warning: Teleporting vehicle 'morning_ramp.97'; waited too long (yield), lane='E2_0', time=21506.00.
+Warning: Vehicle 'morning_ramp.97' ends teleporting on edge 'E1', time=21506.00.
+Warning: Teleporting vehicle 'morning_ramp.98'; waited too long (yield), lane='E2_0', time=21811.00.
+Warning: Vehicle 'morning_ramp.98' ends teleporting on edge 'E1', time=21811.00.
+Warning: Teleporting vehicle 'morning_ramp.99'; waited too long (yield), lane='E2_0', time=22115.00.
+Warning: Vehicle 'morning_ramp.99' ends teleporting on edge 'E1', time=22115.00.
+Warning: Teleporting vehicle 'morning_ramp.100'; waited too long (yield), lane='E2_0', time=22419.00.
+Warning: Vehicle 'morning_ramp.100' ends teleporting on edge 'E1', time=22419.00.
+Warning: Teleporting vehicle 'morning_ramp.101'; waited too long (yield), lane='E2_0', time=22723.00.
+Warning: Vehicle 'morning_ramp.101' ends teleporting on edge 'E1', time=22723.00.
+Warning: Teleporting vehicle 'morning_ramp.102'; waited too long (yield), lane='E2_0', time=23028.00.
+Warning: Vehicle 'morning_ramp.102' ends teleporting on edge 'E1', time=23028.00.
+Warning: Teleporting vehicle 'morning_ramp.103'; waited too long (yield), lane='E2_0', time=23334.00.
+Warning: Vehicle 'morning_ramp.103' ends teleporting on edge 'E1', time=23334.00.
+Warning: Teleporting vehicle 'morning_ramp.104'; waited too long (yield), lane='E2_0', time=23640.00.
+Warning: Vehicle 'morning_ramp.104' ends teleporting on edge 'E1', time=23640.00.
+Warning: Teleporting vehicle 'morning_ramp.105'; waited too long (yield), lane='E2_0', time=23947.00.
+Warning: Vehicle 'morning_ramp.105' ends teleporting on edge 'E1', time=23947.00.
+Warning: Teleporting vehicle 'morning_ramp.106'; waited too long (yield), lane='E2_0', time=24254.00.
+Warning: Vehicle 'morning_ramp.106' ends teleporting on edge 'E1', time=24254.00.
+Warning: Teleporting vehicle 'morning_ramp.107'; waited too long (yield), lane='E2_0', time=24560.00.
+Warning: Vehicle 'morning_ramp.107' ends teleporting on edge 'E1', time=24560.00.
+Warning: Teleporting vehicle 'morning_ramp.108'; waited too long (yield), lane='E2_0', time=24866.00.
+Warning: Vehicle 'morning_ramp.108' ends teleporting on edge 'E1', time=24866.00.
+Warning: Teleporting vehicle 'morning_ramp.109'; waited too long (yield), lane='E2_0', time=25170.00.
+Warning: Vehicle 'morning_ramp.109' ends teleporting on edge 'E1', time=25170.00.
+Warning: Teleporting vehicle 'morning_ramp.110'; waited too long (yield), lane='E2_0', time=25475.00.
+Warning: Vehicle 'morning_ramp.110' ends teleporting on edge 'E1', time=25475.00.
+Warning: Teleporting vehicle 'morning_ramp.111'; waited too long (yield), lane='E2_0', time=25779.00.
+Warning: Vehicle 'morning_ramp.111' ends teleporting on edge 'E1', time=25779.00.
+Warning: Teleporting vehicle 'morning_ramp.112'; waited too long (yield), lane='E2_0', time=26084.00.
+Warning: Vehicle 'morning_ramp.112' ends teleporting on edge 'E1', time=26084.00.
+Warning: Teleporting vehicle 'morning_ramp.113'; waited too long (yield), lane='E2_0', time=26389.00.
+Warning: Vehicle 'morning_ramp.113' ends teleporting on edge 'E1', time=26389.00.
+Warning: Teleporting vehicle 'morning_ramp.114'; waited too long (yield), lane='E2_0', time=26695.00.
+Warning: Vehicle 'morning_ramp.114' ends teleporting on edge 'E1', time=26695.00.
+Warning: Teleporting vehicle 'morning_ramp.115'; waited too long (yield), lane='E2_0', time=27000.00.
+Warning: Vehicle 'morning_ramp.115' ends teleporting on edge 'E1', time=27000.00.
+Warning: Teleporting vehicle 'morning_ramp.116'; waited too long (yield), lane='E2_0', time=27304.00.
+Warning: Vehicle 'morning_ramp.116' ends teleporting on edge 'E1', time=27304.00.
+Warning: Teleporting vehicle 'morning_ramp.117'; waited too long (yield), lane='E2_0', time=27609.00.
+Warning: Vehicle 'morning_ramp.117' ends teleporting on edge 'E1', time=27609.00.
+Warning: Teleporting vehicle 'morning_ramp.118'; waited too long (yield), lane='E2_0', time=27913.00.
+Warning: Vehicle 'morning_ramp.118' ends teleporting on edge 'E1', time=27913.00.
+Warning: Teleporting vehicle 'morning_ramp.119'; waited too long (yield), lane='E2_0', time=28218.00.
+Warning: Vehicle 'morning_ramp.119' ends teleporting on edge 'E1', time=28218.00.
+Warning: Teleporting vehicle 'morning_ramp.120'; waited too long (yield), lane='E2_0', time=28522.00.
+Warning: Vehicle 'morning_ramp.120' ends teleporting on edge 'E1', time=28522.00.
+Warning: Teleporting vehicle 'morning_ramp.121'; waited too long (yield), lane='E2_0', time=28829.00.
+Warning: Vehicle 'morning_ramp.121' ends teleporting on edge 'E1', time=28829.00.
+Warning: Teleporting vehicle 'morning_ramp.122'; waited too long (yield), lane='E2_0', time=29133.00.
+Warning: Vehicle 'morning_ramp.122' ends teleporting on edge 'E1', time=29133.00.
+Warning: Teleporting vehicle 'morning_ramp.123'; waited too long (yield), lane='E2_0', time=29438.00.
+Warning: Vehicle 'morning_ramp.123' ends teleporting on edge 'E1', time=29438.00.
+Warning: Teleporting vehicle 'morning_ramp.124'; waited too long (yield), lane='E2_0', time=29742.00.
+Warning: Vehicle 'morning_ramp.124' ends teleporting on edge 'E1', time=29742.00.
+Warning: Teleporting vehicle 'morning_ramp.125'; waited too long (yield), lane='E2_0', time=30046.00.
+Warning: Vehicle 'morning_ramp.125' ends teleporting on edge 'E1', time=30046.00.
+Warning: Teleporting vehicle 'morning_ramp.126'; waited too long (yield), lane='E2_0', time=30351.00.
+Warning: Vehicle 'morning_ramp.126' ends teleporting on edge 'E1', time=30351.00.
+Warning: Teleporting vehicle 'morning_ramp.127'; waited too long (yield), lane='E2_0', time=30658.00.
+Warning: Vehicle 'morning_ramp.127' ends teleporting on edge 'E1', time=30658.00.
+Warning: Teleporting vehicle 'morning_ramp.128'; waited too long (yield), lane='E2_0', time=30962.00.
+Warning: Vehicle 'morning_ramp.128' ends teleporting on edge 'E1', time=30962.00.
+Warning: Teleporting vehicle 'morning_ramp.129'; waited too long (yield), lane='E2_0', time=31268.00.
+Warning: Vehicle 'morning_ramp.129' ends teleporting on edge 'E1', time=31268.00.
+Warning: Teleporting vehicle 'morning_ramp.130'; waited too long (yield), lane='E2_0', time=31573.00.
+Warning: Vehicle 'morning_ramp.130' ends teleporting on edge 'E1', time=31573.00.
+Warning: Teleporting vehicle 'morning_ramp.131'; waited too long (yield), lane='E2_0', time=31878.00.
+Warning: Vehicle 'morning_ramp.131' ends teleporting on edge 'E1', time=31878.00.
+Warning: Teleporting vehicle 'morning_ramp.132'; waited too long (yield), lane='E2_0', time=32183.00.
+Warning: Vehicle 'morning_ramp.132' ends teleporting on edge 'E1', time=32183.00.
+Warning: Teleporting vehicle 'morning_ramp.133'; waited too long (yield), lane='E2_0', time=32487.00.
+Warning: Vehicle 'morning_ramp.133' ends teleporting on edge 'E1', time=32487.00.
+Warning: Teleporting vehicle 'morning_ramp.134'; waited too long (yield), lane='E2_0', time=32791.00.
+Warning: Vehicle 'morning_ramp.134' ends teleporting on edge 'E1', time=32791.00.
+Warning: Teleporting vehicle 'morning_ramp.135'; waited too long (yield), lane='E2_0', time=33095.00.
+Warning: Vehicle 'morning_ramp.135' ends teleporting on edge 'E1', time=33095.00.
+Warning: Teleporting vehicle 'morning_ramp.136'; waited too long (yield), lane='E2_0', time=33400.00.
+Warning: Vehicle 'morning_ramp.136' ends teleporting on edge 'E1', time=33400.00.
+Warning: Teleporting vehicle 'morning_ramp.137'; waited too long (yield), lane='E2_0', time=33706.00.
+Warning: Vehicle 'morning_ramp.137' ends teleporting on edge 'E1', time=33706.00.
+Warning: Teleporting vehicle 'morning_ramp.138'; waited too long (yield), lane='E2_0', time=34010.00.
+Warning: Vehicle 'morning_ramp.138' ends teleporting on edge 'E1', time=34010.00.
+Warning: Teleporting vehicle 'morning_ramp.139'; waited too long (yield), lane='E2_0', time=34316.00.
+Warning: Vehicle 'morning_ramp.139' ends teleporting on edge 'E1', time=34316.00.
+Warning: Teleporting vehicle 'morning_ramp.140'; waited too long (yield), lane='E2_0', time=34621.00.
+Warning: Vehicle 'morning_ramp.140' ends teleporting on edge 'E1', time=34621.00.
+Warning: Teleporting vehicle 'morning_ramp.141'; waited too long (yield), lane='E2_0', time=34927.00.
+Warning: Vehicle 'morning_ramp.141' ends teleporting on edge 'E1', time=34927.00.
+Warning: Teleporting vehicle 'morning_ramp.142'; waited too long (yield), lane='E2_0', time=35233.00.
+Warning: Vehicle 'morning_ramp.142' ends teleporting on edge 'E1', time=35233.00.
+Warning: Teleporting vehicle 'morning_ramp.143'; waited too long (yield), lane='E2_0', time=35537.00.
+Warning: Vehicle 'morning_ramp.143' ends teleporting on edge 'E1', time=35537.00.
+Warning: Teleporting vehicle 'morning_ramp.144'; waited too long (yield), lane='E2_0', time=35844.00.
+Warning: Vehicle 'morning_ramp.144' ends teleporting on edge 'E1', time=35844.00.
+Warning: Teleporting vehicle 'morning_ramp.145'; waited too long (yield), lane='E2_0', time=36150.00.
+Warning: Vehicle 'morning_ramp.145' ends teleporting on edge 'E1', time=36150.00.
+Warning: Teleporting vehicle 'morning_ramp.146'; waited too long (yield), lane='E2_0', time=36455.00.
+Warning: Vehicle 'morning_ramp.146' ends teleporting on edge 'E1', time=36455.00.
+Warning: Teleporting vehicle 'morning_ramp.147'; waited too long (yield), lane='E2_0', time=36760.00.
+Warning: Vehicle 'morning_ramp.147' ends teleporting on edge 'E1', time=36760.00.
+Warning: Teleporting vehicle 'morning_ramp.148'; waited too long (yield), lane='E2_0', time=37064.00.
+Warning: Vehicle 'morning_ramp.148' ends teleporting on edge 'E1', time=37064.00.
+Warning: Teleporting vehicle 'morning_ramp.149'; waited too long (yield), lane='E2_0', time=37369.00.
+Warning: Vehicle 'morning_ramp.149' ends teleporting on edge 'E1', time=37369.00.
+Warning: Teleporting vehicle 'morning_ramp.150'; waited too long (yield), lane='E2_0', time=37674.00.
+Warning: Vehicle 'morning_ramp.150' ends teleporting on edge 'E1', time=37674.00.
+Warning: Teleporting vehicle 'morning_ramp.151'; waited too long (yield), lane='E2_0', time=37978.00.
+Warning: Vehicle 'morning_ramp.151' ends teleporting on edge 'E1', time=37978.00.
+Warning: Teleporting vehicle 'morning_ramp.152'; waited too long (yield), lane='E2_0', time=38284.00.
+Warning: Vehicle 'morning_ramp.152' ends teleporting on edge 'E1', time=38284.00.
+Warning: Teleporting vehicle 'morning_ramp.153'; waited too long (yield), lane='E2_0', time=38588.00.
+Warning: Vehicle 'morning_ramp.153' ends teleporting on edge 'E1', time=38588.00.
+Warning: Teleporting vehicle 'morning_ramp.154'; waited too long (yield), lane='E2_0', time=38893.00.
+Warning: Vehicle 'morning_ramp.154' ends teleporting on edge 'E1', time=38893.00.
+Warning: Teleporting vehicle 'morning_ramp.155'; waited too long (yield), lane='E2_0', time=39199.00.
+Warning: Vehicle 'morning_ramp.155' ends teleporting on edge 'E1', time=39199.00.
+Warning: Teleporting vehicle 'morning_ramp.156'; waited too long (yield), lane='E2_0', time=39504.00.
+Warning: Vehicle 'morning_ramp.156' ends teleporting on edge 'E1', time=39504.00.
+Warning: Teleporting vehicle 'morning_ramp.157'; waited too long (yield), lane='E2_0', time=39808.00.
+Warning: Vehicle 'morning_ramp.157' ends teleporting on edge 'E1', time=39808.00.
+Warning: Teleporting vehicle 'morning_ramp.158'; waited too long (yield), lane='E2_0', time=40114.00.
+Warning: Vehicle 'morning_ramp.158' ends teleporting on edge 'E1', time=40114.00.
+Warning: Teleporting vehicle 'morning_ramp.159'; waited too long (yield), lane='E2_0', time=40418.00.
+Warning: Vehicle 'morning_ramp.159' ends teleporting on edge 'E1', time=40418.00.
+Warning: Teleporting vehicle 'morning_ramp.160'; waited too long (yield), lane='E2_0', time=40722.00.
+Warning: Vehicle 'morning_ramp.160' ends teleporting on edge 'E1', time=40722.00.
+Warning: Teleporting vehicle 'morning_ramp.161'; waited too long (yield), lane='E2_0', time=41027.00.
+Warning: Vehicle 'morning_ramp.161' ends teleporting on edge 'E1', time=41027.00.
+Warning: Teleporting vehicle 'morning_ramp.162'; waited too long (yield), lane='E2_0', time=41333.00.
+Warning: Vehicle 'morning_ramp.162' ends teleporting on edge 'E1', time=41333.00.
+Warning: Teleporting vehicle 'morning_ramp.163'; waited too long (yield), lane='E2_0', time=41638.00.
+Warning: Vehicle 'morning_ramp.163' ends teleporting on edge 'E1', time=41638.00.
+Warning: Teleporting vehicle 'morning_ramp.164'; waited too long (yield), lane='E2_0', time=41942.00.
+Warning: Vehicle 'morning_ramp.164' ends teleporting on edge 'E1', time=41942.00.
+Warning: Teleporting vehicle 'morning_ramp.165'; waited too long (yield), lane='E2_0', time=42247.00.
+Warning: Vehicle 'morning_ramp.165' ends teleporting on edge 'E1', time=42247.00.
+Warning: Teleporting vehicle 'morning_ramp.166'; waited too long (yield), lane='E2_0', time=42552.00.
+Warning: Vehicle 'morning_ramp.166' ends teleporting on edge 'E1', time=42552.00.
+Warning: Teleporting vehicle 'morning_ramp.167'; waited too long (yield), lane='E2_0', time=42856.00.
+Warning: Vehicle 'morning_ramp.167' ends teleporting on edge 'E1', time=42856.00.
+Warning: Teleporting vehicle 'morning_ramp.168'; waited too long (yield), lane='E2_0', time=43160.00.
+Warning: Vehicle 'morning_ramp.168' ends teleporting on edge 'E1', time=43160.00.
+Warning: Teleporting vehicle 'morning_ramp.169'; waited too long (yield), lane='E2_0', time=43464.00.
+Warning: Vehicle 'morning_ramp.169' ends teleporting on edge 'E1', time=43464.00.
+Warning: Teleporting vehicle 'morning_ramp.170'; waited too long (yield), lane='E2_0', time=43769.00.
+Warning: Vehicle 'morning_ramp.170' ends teleporting on edge 'E1', time=43769.00.
+Warning: Teleporting vehicle 'morning_ramp.171'; waited too long (yield), lane='E2_0', time=44075.00.
+Warning: Vehicle 'morning_ramp.171' ends teleporting on edge 'E1', time=44075.00.
+Warning: Teleporting vehicle 'morning_ramp.172'; waited too long (yield), lane='E2_0', time=44379.00.
+Warning: Vehicle 'morning_ramp.172' ends teleporting on edge 'E1', time=44379.00.
+Warning: Teleporting vehicle 'morning_ramp.173'; waited too long (yield), lane='E2_0', time=44685.00.
+Warning: Vehicle 'morning_ramp.173' ends teleporting on edge 'E1', time=44685.00.
+Warning: Teleporting vehicle 'morning_ramp.174'; waited too long (yield), lane='E2_0', time=44989.00.
+Warning: Vehicle 'morning_ramp.174' ends teleporting on edge 'E1', time=44989.00.
+Warning: Teleporting vehicle 'morning_ramp.175'; waited too long (yield), lane='E2_0', time=45294.00.
+Warning: Vehicle 'morning_ramp.175' ends teleporting on edge 'E1', time=45294.00.
+Warning: Teleporting vehicle 'morning_ramp.176'; waited too long (yield), lane='E2_0', time=45598.00.
+Warning: Vehicle 'morning_ramp.176' ends teleporting on edge 'E1', time=45598.00.
+Warning: Teleporting vehicle 'morning_ramp.177'; waited too long (yield), lane='E2_0', time=45904.00.
+Warning: Vehicle 'morning_ramp.177' ends teleporting on edge 'E1', time=45904.00.
+Warning: Teleporting vehicle 'morning_ramp.178'; waited too long (yield), lane='E2_0', time=46209.00.
+Warning: Vehicle 'morning_ramp.178' ends teleporting on edge 'E1', time=46209.00.
+Warning: Teleporting vehicle 'morning_ramp.179'; waited too long (yield), lane='E2_0', time=46515.00.
+Warning: Vehicle 'morning_ramp.179' ends teleporting on edge 'E1', time=46515.00.
+Warning: Teleporting vehicle 'morning_ramp.180'; waited too long (yield), lane='E2_0', time=46820.00.
+Warning: Vehicle 'morning_ramp.180' ends teleporting on edge 'E1', time=46820.00.
+Warning: Teleporting vehicle 'morning_ramp.181'; waited too long (yield), lane='E2_0', time=47124.00.
+Warning: Vehicle 'morning_ramp.181' ends teleporting on edge 'E1', time=47124.00.
+Warning: Teleporting vehicle 'morning_ramp.182'; waited too long (yield), lane='E2_0', time=47429.00.
+Warning: Vehicle 'morning_ramp.182' ends teleporting on edge 'E1', time=47429.00.
+Warning: Teleporting vehicle 'morning_ramp.183'; waited too long (yield), lane='E2_0', time=47735.00.
+Warning: Vehicle 'morning_ramp.183' ends teleporting on edge 'E1', time=47735.00.
+Warning: Teleporting vehicle 'morning_ramp.184'; waited too long (yield), lane='E2_0', time=48041.00.
+Warning: Vehicle 'morning_ramp.184' ends teleporting on edge 'E1', time=48041.00.
+Warning: Teleporting vehicle 'morning_ramp.185'; waited too long (yield), lane='E2_0', time=48345.00.
+Warning: Vehicle 'morning_ramp.185' ends teleporting on edge 'E1', time=48345.00.
+Warning: Teleporting vehicle 'morning_ramp.186'; waited too long (yield), lane='E2_0', time=48649.00.
+Warning: Vehicle 'morning_ramp.186' ends teleporting on edge 'E1', time=48649.00.
+Warning: Teleporting vehicle 'morning_ramp.187'; waited too long (yield), lane='E2_0', time=48954.00.
+Warning: Vehicle 'morning_ramp.187' ends teleporting on edge 'E1', time=48954.00.
+Warning: Teleporting vehicle 'morning_ramp.188'; waited too long (yield), lane='E2_0', time=49259.00.
+Warning: Vehicle 'morning_ramp.188' ends teleporting on edge 'E1', time=49259.00.
+Warning: Teleporting vehicle 'morning_ramp.189'; waited too long (yield), lane='E2_0', time=49565.00.
+Warning: Vehicle 'morning_ramp.189' ends teleporting on edge 'E1', time=49565.00.
+Warning: Teleporting vehicle 'morning_ramp.190'; waited too long (yield), lane='E2_0', time=49869.00.
+Warning: Vehicle 'morning_ramp.190' ends teleporting on edge 'E1', time=49869.00.
+Warning: Teleporting vehicle 'morning_ramp.191'; waited too long (yield), lane='E2_0', time=50175.00.
+Warning: Vehicle 'morning_ramp.191' ends teleporting on edge 'E1', time=50175.00.
+Warning: Teleporting vehicle 'morning_ramp.192'; waited too long (yield), lane='E2_0', time=50480.00.
+Warning: Vehicle 'morning_ramp.192' ends teleporting on edge 'E1', time=50480.00.
+Warning: Teleporting vehicle 'morning_ramp.193'; waited too long (yield), lane='E2_0', time=50786.00.
+Warning: Vehicle 'morning_ramp.193' ends teleporting on edge 'E1', time=50786.00.
+Warning: Teleporting vehicle 'morning_ramp.194'; waited too long (yield), lane='E2_0', time=51092.00.
+Warning: Vehicle 'morning_ramp.194' ends teleporting on edge 'E1', time=51092.00.
+Warning: Teleporting vehicle 'morning_ramp.195'; waited too long (yield), lane='E2_0', time=51397.00.
+Warning: Vehicle 'morning_ramp.195' ends teleporting on edge 'E1', time=51397.00.
+Warning: Teleporting vehicle 'morning_ramp.196'; waited too long (yield), lane='E2_0', time=51702.00.
+Warning: Vehicle 'morning_ramp.196' ends teleporting on edge 'E1', time=51702.00.
+Warning: Teleporting vehicle 'morning_ramp.197'; waited too long (yield), lane='E2_0', time=52007.00.
+Warning: Vehicle 'morning_ramp.197' ends teleporting on edge 'E1', time=52007.00.
+Warning: Teleporting vehicle 'morning_ramp.198'; waited too long (yield), lane='E2_0', time=52313.00.
+Warning: Vehicle 'morning_ramp.198' ends teleporting on edge 'E1', time=52313.00.
+Warning: Teleporting vehicle 'morning_ramp.199'; waited too long (yield), lane='E2_0', time=52618.00.
+Warning: Vehicle 'morning_ramp.199' ends teleporting on edge 'E1', time=52618.00.
+Warning: Teleporting vehicle 'morning_ramp.200'; waited too long (yield), lane='E2_0', time=52923.00.
+Warning: Vehicle 'morning_ramp.200' ends teleporting on edge 'E1', time=52923.00.
+Warning: Teleporting vehicle 'morning_ramp.201'; waited too long (yield), lane='E2_0', time=53229.00.
+Warning: Vehicle 'morning_ramp.201' ends teleporting on edge 'E1', time=53229.00.
+Warning: Teleporting vehicle 'morning_ramp.202'; waited too long (yield), lane='E2_0', time=53535.00.
+Warning: Vehicle 'morning_ramp.202' ends teleporting on edge 'E1', time=53535.00.
+Warning: Teleporting vehicle 'morning_ramp.203'; waited too long (yield), lane='E2_0', time=53839.00.
+Warning: Vehicle 'morning_ramp.203' ends teleporting on edge 'E1', time=53839.00.
+Warning: Teleporting vehicle 'morning_ramp.204'; waited too long (yield), lane='E2_0', time=54145.00.
+Warning: Vehicle 'morning_ramp.204' ends teleporting on edge 'E1', time=54145.00.
+Warning: Teleporting vehicle 'morning_ramp.205'; waited too long (yield), lane='E2_0', time=54449.00.
+Warning: Vehicle 'morning_ramp.205' ends teleporting on edge 'E1', time=54449.00.
+Warning: Teleporting vehicle 'morning_ramp.206'; waited too long (yield), lane='E2_0', time=54755.00.
+Warning: Vehicle 'morning_ramp.206' ends teleporting on edge 'E1', time=54755.00.
+Warning: Teleporting vehicle 'morning_ramp.207'; waited too long (yield), lane='E2_0', time=55061.00.
+Warning: Vehicle 'morning_ramp.207' ends teleporting on edge 'E1', time=55061.00.
+Warning: Teleporting vehicle 'morning_ramp.208'; waited too long (yield), lane='E2_0', time=55366.00.
+Warning: Vehicle 'morning_ramp.208' ends teleporting on edge 'E1', time=55366.00.
+Warning: Teleporting vehicle 'morning_ramp.209'; waited too long (yield), lane='E2_0', time=55671.00.
+Warning: Vehicle 'morning_ramp.209' ends teleporting on edge 'E1', time=55671.00.
+Warning: Teleporting vehicle 'morning_ramp.210'; waited too long (yield), lane='E2_0', time=55978.00.
+Warning: Vehicle 'morning_ramp.210' ends teleporting on edge 'E1', time=55978.00.
+Warning: Teleporting vehicle 'morning_ramp.211'; waited too long (yield), lane='E2_0', time=56283.00.
+Warning: Vehicle 'morning_ramp.211' ends teleporting on edge 'E1', time=56283.00.
+Warning: Teleporting vehicle 'morning_ramp.212'; waited too long (yield), lane='E2_0', time=56588.00.
+Warning: Vehicle 'morning_ramp.212' ends teleporting on edge 'E1', time=56588.00.
+Warning: Teleporting vehicle 'morning_ramp.213'; waited too long (yield), lane='E2_0', time=56894.00.
+Warning: Vehicle 'morning_ramp.213' ends teleporting on edge 'E1', time=56894.00.
+Warning: Teleporting vehicle 'morning_ramp.214'; waited too long (yield), lane='E2_0', time=57199.00.
+Warning: Vehicle 'morning_ramp.214' ends teleporting on edge 'E1', time=57199.00.
+Warning: Teleporting vehicle 'morning_ramp.215'; waited too long (yield), lane='E2_0', time=57504.00.
+Warning: Vehicle 'morning_ramp.215' ends teleporting on edge 'E1', time=57504.00.
+Warning: Teleporting vehicle 'morning_ramp.216'; waited too long (yield), lane='E2_0', time=57810.00.
+Warning: Vehicle 'morning_ramp.216' ends teleporting on edge 'E1', time=57810.00.
+Warning: Teleporting vehicle 'morning_ramp.217'; waited too long (yield), lane='E2_0', time=58114.00.
+Warning: Vehicle 'morning_ramp.217' ends teleporting on edge 'E1', time=58114.00.
+Warning: Teleporting vehicle 'morning_ramp.218'; waited too long (yield), lane='E2_0', time=58419.00.
+Warning: Vehicle 'morning_ramp.218' ends teleporting on edge 'E1', time=58419.00.
+Warning: Teleporting vehicle 'morning_ramp.219'; waited too long (yield), lane='E2_0', time=58724.00.
+Warning: Vehicle 'morning_ramp.219' ends teleporting on edge 'E1', time=58724.00.
+Warning: Teleporting vehicle 'morning_ramp.220'; waited too long (yield), lane='E2_0', time=59029.00.
+Warning: Vehicle 'morning_ramp.220' ends teleporting on edge 'E1', time=59029.00.
+Warning: Teleporting vehicle 'morning_ramp.221'; waited too long (yield), lane='E2_0', time=59334.00.
+Warning: Vehicle 'morning_ramp.221' ends teleporting on edge 'E1', time=59334.00.
+Warning: Teleporting vehicle 'morning_ramp.222'; waited too long (yield), lane='E2_0', time=59639.00.
+Warning: Vehicle 'morning_ramp.222' ends teleporting on edge 'E1', time=59639.00.
+Warning: Teleporting vehicle 'morning_ramp.223'; waited too long (yield), lane='E2_0', time=59944.00.
+Warning: Vehicle 'morning_ramp.223' ends teleporting on edge 'E1', time=59944.00.
+Warning: Teleporting vehicle 'morning_ramp.224'; waited too long (yield), lane='E2_0', time=60250.00.
+Warning: Vehicle 'morning_ramp.224' ends teleporting on edge 'E1', time=60250.00.
+Warning: Teleporting vehicle 'morning_ramp.225'; waited too long (yield), lane='E2_0', time=60556.00.
+Warning: Vehicle 'morning_ramp.225' ends teleporting on edge 'E1', time=60556.00.
+Warning: Teleporting vehicle 'morning_ramp.226'; waited too long (yield), lane='E2_0', time=60861.00.
+Warning: Vehicle 'morning_ramp.226' ends teleporting on edge 'E1', time=60861.00.
+Warning: Teleporting vehicle 'morning_ramp.227'; waited too long (yield), lane='E2_0', time=61167.00.
+Warning: Vehicle 'morning_ramp.227' ends teleporting on edge 'E1', time=61167.00.
+Warning: Teleporting vehicle 'morning_ramp.228'; waited too long (yield), lane='E2_0', time=61472.00.
+Warning: Vehicle 'morning_ramp.228' ends teleporting on edge 'E1', time=61472.00.
+Warning: Teleporting vehicle 'morning_ramp.229'; waited too long (yield), lane='E2_0', time=61777.00.
+Warning: Vehicle 'morning_ramp.229' ends teleporting on edge 'E1', time=61777.00.
+Warning: Teleporting vehicle 'morning_ramp.230'; waited too long (yield), lane='E2_0', time=62082.00.
+Warning: Vehicle 'morning_ramp.230' ends teleporting on edge 'E1', time=62082.00.
+Warning: Teleporting vehicle 'morning_ramp.231'; waited too long (yield), lane='E2_0', time=62388.00.
+Warning: Vehicle 'morning_ramp.231' ends teleporting on edge 'E1', time=62388.00.
+Warning: Teleporting vehicle 'morning_ramp.232'; waited too long (yield), lane='E2_0', time=62692.00.
+Warning: Vehicle 'morning_ramp.232' ends teleporting on edge 'E1', time=62692.00.
+Warning: Teleporting vehicle 'morning_ramp.233'; waited too long (yield), lane='E2_0', time=62997.00.
+Warning: Vehicle 'morning_ramp.233' ends teleporting on edge 'E1', time=62997.00.
+Warning: Teleporting vehicle 'morning_ramp.234'; waited too long (yield), lane='E2_0', time=63302.00.
+Warning: Vehicle 'morning_ramp.234' ends teleporting on edge 'E1', time=63302.00.
+Warning: Teleporting vehicle 'morning_ramp.235'; waited too long (yield), lane='E2_0', time=63607.00.
+Warning: Vehicle 'morning_ramp.235' ends teleporting on edge 'E1', time=63607.00.
+Warning: Teleporting vehicle 'morning_ramp.236'; waited too long (yield), lane='E2_0', time=63911.00.
+Warning: Vehicle 'morning_ramp.236' ends teleporting on edge 'E1', time=63911.00.
+Warning: Teleporting vehicle 'morning_ramp.237'; waited too long (yield), lane='E2_0', time=64215.00.
+Warning: Vehicle 'morning_ramp.237' ends teleporting on edge 'E1', time=64215.00.
+Warning: Teleporting vehicle 'morning_ramp.238'; waited too long (yield), lane='E2_0', time=64521.00.
+Warning: Vehicle 'morning_ramp.238' ends teleporting on edge 'E1', time=64521.00.
+Warning: Teleporting vehicle 'morning_ramp.239'; waited too long (yield), lane='E2_0', time=64825.00.
+Warning: Vehicle 'morning_ramp.239' ends teleporting on edge 'E1', time=64825.00.
+Warning: Teleporting vehicle 'morning_ramp.240'; waited too long (yield), lane='E2_0', time=65130.00.
+Warning: Vehicle 'morning_ramp.240' ends teleporting on edge 'E1', time=65130.00.
+Warning: Teleporting vehicle 'morning_ramp.241'; waited too long (yield), lane='E2_0', time=65435.00.
+Warning: Vehicle 'morning_ramp.241' ends teleporting on edge 'E1', time=65435.00.
+Warning: Teleporting vehicle 'morning_ramp.242'; waited too long (yield), lane='E2_0', time=65740.00.
+Warning: Vehicle 'morning_ramp.242' ends teleporting on edge 'E1', time=65740.00.
+Warning: Teleporting vehicle 'morning_ramp.243'; waited too long (yield), lane='E2_0', time=66045.00.
+Warning: Vehicle 'morning_ramp.243' ends teleporting on edge 'E1', time=66045.00.
+Warning: Teleporting vehicle 'morning_ramp.244'; waited too long (yield), lane='E2_0', time=66352.00.
+Warning: Vehicle 'morning_ramp.244' ends teleporting on edge 'E1', time=66352.00.
+Warning: Teleporting vehicle 'morning_ramp.245'; waited too long (yield), lane='E2_0', time=66658.00.
+Warning: Vehicle 'morning_ramp.245' ends teleporting on edge 'E1', time=66658.00.
+Warning: Teleporting vehicle 'morning_ramp.246'; waited too long (yield), lane='E2_0', time=66964.00.
+Warning: Vehicle 'morning_ramp.246' ends teleporting on edge 'E1', time=66964.00.
+Warning: Teleporting vehicle 'morning_ramp.247'; waited too long (yield), lane='E2_0', time=67269.00.
+Warning: Vehicle 'morning_ramp.247' ends teleporting on edge 'E1', time=67269.00.
+Warning: Teleporting vehicle 'morning_ramp.248'; waited too long (yield), lane='E2_0', time=67573.00.
+Warning: Vehicle 'morning_ramp.248' ends teleporting on edge 'E1', time=67573.00.
+Warning: Teleporting vehicle 'morning_ramp.249'; waited too long (yield), lane='E2_0', time=67879.00.
+Warning: Vehicle 'morning_ramp.249' ends teleporting on edge 'E1', time=67879.00.
+Warning: Teleporting vehicle 'morning_ramp.250'; waited too long (yield), lane='E2_0', time=68183.00.
+Warning: Vehicle 'morning_ramp.250' ends teleporting on edge 'E1', time=68183.00.
+Warning: Teleporting vehicle 'morning_ramp.251'; waited too long (yield), lane='E2_0', time=68489.00.
+Warning: Vehicle 'morning_ramp.251' ends teleporting on edge 'E1', time=68489.00.
+Warning: Teleporting vehicle 'morning_ramp.252'; waited too long (yield), lane='E2_0', time=68794.00.
+Warning: Vehicle 'morning_ramp.252' ends teleporting on edge 'E1', time=68794.00.
+Warning: Teleporting vehicle 'morning_ramp.253'; waited too long (yield), lane='E2_0', time=69100.00.
+Warning: Vehicle 'morning_ramp.253' ends teleporting on edge 'E1', time=69100.00.
+Warning: Teleporting vehicle 'morning_ramp.254'; waited too long (yield), lane='E2_0', time=69406.00.
+Warning: Vehicle 'morning_ramp.254' ends teleporting on edge 'E1', time=69406.00.
+Warning: Teleporting vehicle 'morning_ramp.255'; waited too long (yield), lane='E2_0', time=69711.00.
+Warning: Vehicle 'morning_ramp.255' ends teleporting on edge 'E1', time=69711.00.
+Warning: Teleporting vehicle 'morning_ramp.256'; waited too long (yield), lane='E2_0', time=70016.00.
+Warning: Vehicle 'morning_ramp.256' ends teleporting on edge 'E1', time=70016.00.
+Warning: Teleporting vehicle 'morning_ramp.257'; waited too long (yield), lane='E2_0', time=70321.00.
+Warning: Vehicle 'morning_ramp.257' ends teleporting on edge 'E1', time=70321.00.
+Warning: Teleporting vehicle 'morning_ramp.258'; waited too long (yield), lane='E2_0', time=70626.00.
+Warning: Vehicle 'morning_ramp.258' ends teleporting on edge 'E1', time=70626.00.
+Warning: Teleporting vehicle 'morning_ramp.259'; waited too long (yield), lane='E2_0', time=70932.00.
+Warning: Vehicle 'morning_ramp.259' ends teleporting on edge 'E1', time=70932.00.
+Warning: Teleporting vehicle 'morning_ramp.260'; waited too long (yield), lane='E2_0', time=71236.00.
+Warning: Vehicle 'morning_ramp.260' ends teleporting on edge 'E1', time=71236.00.
+Warning: Teleporting vehicle 'morning_ramp.261'; waited too long (yield), lane='E2_0', time=71541.00.
+Warning: Vehicle 'morning_ramp.261' ends teleporting on edge 'E1', time=71541.00.
+Warning: Teleporting vehicle 'morning_ramp.262'; waited too long (yield), lane='E2_0', time=71847.00.
+Warning: Vehicle 'morning_ramp.262' ends teleporting on edge 'E1', time=71847.00.
+Warning: Teleporting vehicle 'morning_ramp.263'; waited too long (yield), lane='E2_0', time=72152.00.
+Warning: Vehicle 'morning_ramp.263' ends teleporting on edge 'E1', time=72152.00.
+Warning: Teleporting vehicle 'morning_ramp.264'; waited too long (yield), lane='E2_0', time=72457.00.
+Warning: Vehicle 'morning_ramp.264' ends teleporting on edge 'E1', time=72457.00.
+Warning: Teleporting vehicle 'morning_ramp.265'; waited too long (yield), lane='E2_0', time=72761.00.
+Warning: Vehicle 'morning_ramp.265' ends teleporting on edge 'E1', time=72761.00.
+Warning: Teleporting vehicle 'morning_ramp.266'; waited too long (yield), lane='E2_0', time=73067.00.
+Warning: Vehicle 'morning_ramp.266' ends teleporting on edge 'E1', time=73067.00.
+Warning: Teleporting vehicle 'morning_ramp.267'; waited too long (yield), lane='E2_0', time=73372.00.
+Warning: Vehicle 'morning_ramp.267' ends teleporting on edge 'E1', time=73372.00.
+Warning: Teleporting vehicle 'morning_ramp.268'; waited too long (yield), lane='E2_0', time=73677.00.
+Warning: Vehicle 'morning_ramp.268' ends teleporting on edge 'E1', time=73677.00.
+Warning: Teleporting vehicle 'morning_ramp.269'; waited too long (yield), lane='E2_0', time=73981.00.
+Warning: Vehicle 'morning_ramp.269' ends teleporting on edge 'E1', time=73981.00.
+Warning: Teleporting vehicle 'morning_ramp.270'; waited too long (yield), lane='E2_0', time=74286.00.
+Warning: Vehicle 'morning_ramp.270' ends teleporting on edge 'E1', time=74286.00.
+Warning: Teleporting vehicle 'morning_ramp.271'; waited too long (yield), lane='E2_0', time=74590.00.
+Warning: Vehicle 'morning_ramp.271' ends teleporting on edge 'E1', time=74590.00.
+Warning: Teleporting vehicle 'morning_ramp.272'; waited too long (yield), lane='E2_0', time=74896.00.
+Warning: Vehicle 'morning_ramp.272' ends teleporting on edge 'E1', time=74896.00.
+Warning: Teleporting vehicle 'morning_ramp.273'; waited too long (yield), lane='E2_0', time=75201.00.
+Warning: Vehicle 'morning_ramp.273' ends teleporting on edge 'E1', time=75201.00.
+Warning: Teleporting vehicle 'morning_ramp.274'; waited too long (yield), lane='E2_0', time=75507.00.
+Warning: Vehicle 'morning_ramp.274' ends teleporting on edge 'E1', time=75507.00.
+Warning: Teleporting vehicle 'morning_ramp.275'; waited too long (yield), lane='E2_0', time=75813.00.
+Warning: Vehicle 'morning_ramp.275' ends teleporting on edge 'E1', time=75813.00.
+Warning: Teleporting vehicle 'morning_ramp.276'; waited too long (yield), lane='E2_0', time=76118.00.
+Warning: Vehicle 'morning_ramp.276' ends teleporting on edge 'E1', time=76118.00.
+Warning: Teleporting vehicle 'morning_ramp.277'; waited too long (yield), lane='E2_0', time=76424.00.
+Warning: Vehicle 'morning_ramp.277' ends teleporting on edge 'E1', time=76424.00.
+Warning: Teleporting vehicle 'morning_ramp.278'; waited too long (yield), lane='E2_0', time=76728.00.
+Warning: Vehicle 'morning_ramp.278' ends teleporting on edge 'E1', time=76728.00.
+Warning: Teleporting vehicle 'morning_ramp.279'; waited too long (yield), lane='E2_0', time=77033.00.
+Warning: Vehicle 'morning_ramp.279' ends teleporting on edge 'E1', time=77033.00.
+Warning: Teleporting vehicle 'morning_ramp.280'; waited too long (yield), lane='E2_0', time=77338.00.
+Warning: Vehicle 'morning_ramp.280' ends teleporting on edge 'E1', time=77338.00.
+Warning: Teleporting vehicle 'morning_ramp.281'; waited too long (yield), lane='E2_0', time=77642.00.
+Warning: Vehicle 'morning_ramp.281' ends teleporting on edge 'E1', time=77642.00.
+Warning: Teleporting vehicle 'morning_ramp.282'; waited too long (yield), lane='E2_0', time=77946.00.
+Warning: Vehicle 'morning_ramp.282' ends teleporting on edge 'E1', time=77946.00.
+Warning: Teleporting vehicle 'morning_ramp.283'; waited too long (yield), lane='E2_0', time=78251.00.
+Warning: Vehicle 'morning_ramp.283' ends teleporting on edge 'E1', time=78251.00.
+Warning: Teleporting vehicle 'morning_ramp.284'; waited too long (yield), lane='E2_0', time=78555.00.
+Warning: Vehicle 'morning_ramp.284' ends teleporting on edge 'E1', time=78555.00.
+Warning: Teleporting vehicle 'morning_ramp.285'; waited too long (yield), lane='E2_0', time=78860.00.
+Warning: Vehicle 'morning_ramp.285' ends teleporting on edge 'E1', time=78860.00.
+Warning: Teleporting vehicle 'morning_ramp.286'; waited too long (yield), lane='E2_0', time=79165.00.
+Warning: Vehicle 'morning_ramp.286' ends teleporting on edge 'E1', time=79165.00.
+Warning: Teleporting vehicle 'morning_ramp.287'; waited too long (yield), lane='E2_0', time=79471.00.
+Warning: Vehicle 'morning_ramp.287' ends teleporting on edge 'E1', time=79471.00.
+Warning: Teleporting vehicle 'morning_ramp.288'; waited too long (yield), lane='E2_0', time=79776.00.
+Warning: Vehicle 'morning_ramp.288' ends teleporting on edge 'E1', time=79776.00.
+Warning: Teleporting vehicle 'morning_ramp.289'; waited too long (yield), lane='E2_0', time=80081.00.
+Warning: Vehicle 'morning_ramp.289' ends teleporting on edge 'E1', time=80081.00.
+Warning: Teleporting vehicle 'morning_ramp.290'; waited too long (yield), lane='E2_0', time=80386.00.
+Warning: Vehicle 'morning_ramp.290' ends teleporting on edge 'E1', time=80386.00.
+Warning: Teleporting vehicle 'morning_ramp.291'; waited too long (yield), lane='E2_0', time=80690.00.
+Warning: Vehicle 'morning_ramp.291' ends teleporting on edge 'E1', time=80690.00.
+Warning: Teleporting vehicle 'morning_ramp.292'; waited too long (yield), lane='E2_0', time=80995.00.
+Warning: Vehicle 'morning_ramp.292' ends teleporting on edge 'E1', time=80995.00.
+Warning: Teleporting vehicle 'morning_ramp.293'; waited too long (yield), lane='E2_0', time=81301.00.
+Warning: Vehicle 'morning_ramp.293' ends teleporting on edge 'E1', time=81301.00.
+Warning: Teleporting vehicle 'morning_ramp.294'; waited too long (yield), lane='E2_0', time=81606.00.
+Warning: Vehicle 'morning_ramp.294' ends teleporting on edge 'E1', time=81606.00.
+Warning: Teleporting vehicle 'morning_ramp.295'; waited too long (yield), lane='E2_0', time=81911.00.
+Warning: Vehicle 'morning_ramp.295' ends teleporting on edge 'E1', time=81911.00.
+Warning: Teleporting vehicle 'morning_ramp.296'; waited too long (yield), lane='E2_0', time=82216.00.
+Warning: Vehicle 'morning_ramp.296' ends teleporting on edge 'E1', time=82216.00.
+Warning: Teleporting vehicle 'morning_ramp.297'; waited too long (yield), lane='E2_0', time=82521.00.
+Warning: Vehicle 'morning_ramp.297' ends teleporting on edge 'E1', time=82521.00.
+Warning: Teleporting vehicle 'morning_ramp.298'; waited too long (yield), lane='E2_0', time=82826.00.
+Warning: Vehicle 'morning_ramp.298' ends teleporting on edge 'E1', time=82826.00.
+Warning: Teleporting vehicle 'morning_ramp.299'; waited too long (yield), lane='E2_0', time=83131.00.
+Warning: Vehicle 'morning_ramp.299' ends teleporting on edge 'E1', time=83131.00.
+Warning: Teleporting vehicle 'morning_ramp.300'; waited too long (yield), lane='E2_0', time=83437.00.
+Warning: Vehicle 'morning_ramp.300' ends teleporting on edge 'E1', time=83437.00.
+Warning: Teleporting vehicle 'morning_ramp.301'; waited too long (yield), lane='E2_0', time=83742.00.
+Warning: Vehicle 'morning_ramp.301' ends teleporting on edge 'E1', time=83742.00.
+Warning: Teleporting vehicle 'morning_ramp.302'; waited too long (yield), lane='E2_0', time=84047.00.
+Warning: Vehicle 'morning_ramp.302' ends teleporting on edge 'E1', time=84047.00.
+Warning: Teleporting vehicle 'morning_ramp.303'; waited too long (yield), lane='E2_0', time=84351.00.
+Warning: Vehicle 'morning_ramp.303' ends teleporting on edge 'E1', time=84351.00.
+Warning: Teleporting vehicle 'morning_ramp.304'; waited too long (yield), lane='E2_0', time=84656.00.
+Warning: Vehicle 'morning_ramp.304' ends teleporting on edge 'E1', time=84656.00.
+Warning: Teleporting vehicle 'morning_ramp.305'; waited too long (yield), lane='E2_0', time=84961.00.
+Warning: Vehicle 'morning_ramp.305' ends teleporting on edge 'E1', time=84961.00.
+Warning: Teleporting vehicle 'morning_ramp.306'; waited too long (yield), lane='E2_0', time=85266.00.
+Warning: Vehicle 'morning_ramp.306' ends teleporting on edge 'E1', time=85266.00.
+Warning: Teleporting vehicle 'morning_ramp.307'; waited too long (yield), lane='E2_0', time=85572.00.
+Warning: Vehicle 'morning_ramp.307' ends teleporting on edge 'E1', time=85572.00.
+Warning: Teleporting vehicle 'morning_ramp.308'; waited too long (yield), lane='E2_0', time=85878.00.
+Warning: Vehicle 'morning_ramp.308' ends teleporting on edge 'E1', time=85878.00.
+Warning: Teleporting vehicle 'morning_ramp.309'; waited too long (yield), lane='E2_0', time=86183.00.
+Warning: Vehicle 'morning_ramp.309' ends teleporting on edge 'E1', time=86183.00.
+Warning: Teleporting vehicle 'morning_ramp.310'; waited too long (yield), lane='E2_0', time=86488.00.
+Warning: Vehicle 'morning_ramp.310' ends teleporting on edge 'E1', time=86488.00.
+Warning: Teleporting vehicle 'morning_ramp.311'; waited too long (yield), lane='E2_0', time=86794.00.
+Warning: Vehicle 'morning_ramp.311' ends teleporting on edge 'E1', time=86794.00.
+Warning: Teleporting vehicle 'morning_ramp.312'; waited too long (yield), lane='E2_0', time=87100.00.
+Warning: Vehicle 'morning_ramp.312' ends teleporting on edge 'E1', time=87100.00.
+Warning: Teleporting vehicle 'morning_ramp.313'; waited too long (yield), lane='E2_0', time=87405.00.
+Warning: Vehicle 'morning_ramp.313' ends teleporting on edge 'E1', time=87405.00.
+Warning: Teleporting vehicle 'morning_ramp.314'; waited too long (yield), lane='E2_0', time=87712.00.
+Warning: Vehicle 'morning_ramp.314' ends teleporting on edge 'E1', time=87712.00.
+Warning: Teleporting vehicle 'morning_ramp.315'; waited too long (yield), lane='E2_0', time=88017.00.
+Warning: Vehicle 'morning_ramp.315' ends teleporting on edge 'E1', time=88017.00.
+Warning: Teleporting vehicle 'morning_ramp.316'; waited too long (yield), lane='E2_0', time=88321.00.
+Warning: Vehicle 'morning_ramp.316' ends teleporting on edge 'E1', time=88321.00.
+Warning: Teleporting vehicle 'morning_ramp.317'; waited too long (yield), lane='E2_0', time=88625.00.
+Warning: Vehicle 'morning_ramp.317' ends teleporting on edge 'E1', time=88625.00.
+Warning: Teleporting vehicle 'morning_ramp.318'; waited too long (yield), lane='E2_0', time=88929.00.
+Warning: Vehicle 'morning_ramp.318' ends teleporting on edge 'E1', time=88929.00.
+Warning: Teleporting vehicle 'morning_ramp.319'; waited too long (yield), lane='E2_0', time=89235.00.
+Warning: Vehicle 'morning_ramp.319' ends teleporting on edge 'E1', time=89235.00.
+Warning: Teleporting vehicle 'morning_ramp.320'; waited too long (yield), lane='E2_0', time=89539.00.
+Warning: Vehicle 'morning_ramp.320' ends teleporting on edge 'E1', time=89539.00.
+Warning: Teleporting vehicle 'morning_ramp.321'; waited too long (yield), lane='E2_0', time=89844.00.
+Warning: Vehicle 'morning_ramp.321' ends teleporting on edge 'E1', time=89844.00.
+Warning: Teleporting vehicle 'morning_ramp.322'; waited too long (yield), lane='E2_0', time=90150.00.
+Warning: Vehicle 'morning_ramp.322' ends teleporting on edge 'E1', time=90150.00.
+Warning: Teleporting vehicle 'morning_ramp.323'; waited too long (yield), lane='E2_0', time=90455.00.
+Warning: Vehicle 'morning_ramp.323' ends teleporting on edge 'E1', time=90455.00.
+Warning: Teleporting vehicle 'morning_ramp.324'; waited too long (yield), lane='E2_0', time=90761.00.
+Warning: Vehicle 'morning_ramp.324' ends teleporting on edge 'E1', time=90761.00.
+Warning: Teleporting vehicle 'morning_ramp.325'; waited too long (yield), lane='E2_0', time=91066.00.
+Warning: Vehicle 'morning_ramp.325' ends teleporting on edge 'E1', time=91066.00.
+Warning: Teleporting vehicle 'morning_ramp.326'; waited too long (yield), lane='E2_0', time=91370.00.
+Warning: Vehicle 'morning_ramp.326' ends teleporting on edge 'E1', time=91370.00.
+Warning: Teleporting vehicle 'morning_ramp.327'; waited too long (yield), lane='E2_0', time=91675.00.
+Warning: Vehicle 'morning_ramp.327' ends teleporting on edge 'E1', time=91675.00.
+Warning: Teleporting vehicle 'morning_ramp.328'; waited too long (yield), lane='E2_0', time=91981.00.
+Warning: Vehicle 'morning_ramp.328' ends teleporting on edge 'E1', time=91981.00.
+Warning: Teleporting vehicle 'morning_ramp.329'; waited too long (yield), lane='E2_0', time=92286.00.
+Warning: Vehicle 'morning_ramp.329' ends teleporting on edge 'E1', time=92286.00.
+Warning: Teleporting vehicle 'morning_ramp.330'; waited too long (yield), lane='E2_0', time=92591.00.
+Warning: Vehicle 'morning_ramp.330' ends teleporting on edge 'E1', time=92591.00.
+Warning: Teleporting vehicle 'morning_ramp.331'; waited too long (yield), lane='E2_0', time=92896.00.
+Warning: Vehicle 'morning_ramp.331' ends teleporting on edge 'E1', time=92896.00.
+Warning: Teleporting vehicle 'morning_ramp.332'; waited too long (yield), lane='E2_0', time=93200.00.
+Warning: Vehicle 'morning_ramp.332' ends teleporting on edge 'E1', time=93200.00.
+Warning: Teleporting vehicle 'morning_ramp.333'; waited too long (yield), lane='E2_0', time=93506.00.
+Warning: Vehicle 'morning_ramp.333' ends teleporting on edge 'E1', time=93506.00.
+Warning: Teleporting vehicle 'morning_ramp.334'; waited too long (yield), lane='E2_0', time=93811.00.
+Warning: Vehicle 'morning_ramp.334' ends teleporting on edge 'E1', time=93811.00.
+Warning: Teleporting vehicle 'morning_ramp.335'; waited too long (yield), lane='E2_0', time=94115.00.
+Warning: Vehicle 'morning_ramp.335' ends teleporting on edge 'E1', time=94115.00.
+Warning: Teleporting vehicle 'morning_ramp.336'; waited too long (yield), lane='E2_0', time=94419.00.
+Warning: Vehicle 'morning_ramp.336' ends teleporting on edge 'E1', time=94419.00.
+Warning: Teleporting vehicle 'morning_ramp.337'; waited too long (yield), lane='E2_0', time=94724.00.
+Warning: Vehicle 'morning_ramp.337' ends teleporting on edge 'E1', time=94724.00.
+Warning: Teleporting vehicle 'morning_ramp.338'; waited too long (yield), lane='E2_0', time=95030.00.
+Warning: Vehicle 'morning_ramp.338' ends teleporting on edge 'E1', time=95030.00.
+Warning: Teleporting vehicle 'morning_ramp.339'; waited too long (yield), lane='E2_0', time=95335.00.
+Warning: Vehicle 'morning_ramp.339' ends teleporting on edge 'E1', time=95335.00.
+Warning: Teleporting vehicle 'morning_ramp.340'; waited too long (yield), lane='E2_0', time=95641.00.
+Warning: Vehicle 'morning_ramp.340' ends teleporting on edge 'E1', time=95641.00.
+Warning: Teleporting vehicle 'morning_ramp.341'; waited too long (yield), lane='E2_0', time=95946.00.
+Warning: Vehicle 'morning_ramp.341' ends teleporting on edge 'E1', time=95946.00.
+Warning: Teleporting vehicle 'morning_ramp.342'; waited too long (yield), lane='E2_0', time=96252.00.
+Warning: Vehicle 'morning_ramp.342' ends teleporting on edge 'E1', time=96252.00.
+Warning: Teleporting vehicle 'morning_ramp.343'; waited too long (yield), lane='E2_0', time=96557.00.
+Warning: Vehicle 'morning_ramp.343' ends teleporting on edge 'E1', time=96557.00.
+Warning: Teleporting vehicle 'morning_ramp.344'; waited too long (yield), lane='E2_0', time=96863.00.
+Warning: Vehicle 'morning_ramp.344' ends teleporting on edge 'E1', time=96863.00.
+Warning: Teleporting vehicle 'morning_ramp.345'; waited too long (yield), lane='E2_0', time=97169.00.
+Warning: Vehicle 'morning_ramp.345' ends teleporting on edge 'E1', time=97169.00.
+Warning: Teleporting vehicle 'morning_ramp.346'; waited too long (yield), lane='E2_0', time=97474.00.
+Warning: Vehicle 'morning_ramp.346' ends teleporting on edge 'E1', time=97474.00.
+Warning: Teleporting vehicle 'morning_ramp.347'; waited too long (yield), lane='E2_0', time=97780.00.
+Warning: Vehicle 'morning_ramp.347' ends teleporting on edge 'E1', time=97780.00.
+Warning: Teleporting vehicle 'morning_ramp.348'; waited too long (yield), lane='E2_0', time=98084.00.
+Warning: Vehicle 'morning_ramp.348' ends teleporting on edge 'E1', time=98084.00.
+Warning: Teleporting vehicle 'morning_ramp.349'; waited too long (yield), lane='E2_0', time=98388.00.
+Warning: Vehicle 'morning_ramp.349' ends teleporting on edge 'E1', time=98388.00.
+Warning: Teleporting vehicle 'midday_ramp.0'; waited too long (yield), lane='E2_0', time=98693.00.
+Warning: Vehicle 'midday_ramp.0' ends teleporting on edge 'E1', time=98693.00.
+Warning: Teleporting vehicle 'midday_ramp.1'; waited too long (yield), lane='E2_0', time=98999.00.
+Warning: Vehicle 'midday_ramp.1' ends teleporting on edge 'E1', time=98999.00.
+Warning: Teleporting vehicle 'midday_ramp.2'; waited too long (yield), lane='E2_0', time=99304.00.
+Warning: Vehicle 'midday_ramp.2' ends teleporting on edge 'E1', time=99304.00.
+Warning: Teleporting vehicle 'midday_ramp.3'; waited too long (yield), lane='E2_0', time=99609.00.
+Warning: Vehicle 'midday_ramp.3' ends teleporting on edge 'E1', time=99609.00.
+Warning: Teleporting vehicle 'midday_ramp.4'; waited too long (yield), lane='E2_0', time=99914.00.
+Warning: Vehicle 'midday_ramp.4' ends teleporting on edge 'E1', time=99914.00.
+Warning: Teleporting vehicle 'midday_ramp.5'; waited too long (yield), lane='E2_0', time=100219.00.
+Warning: Vehicle 'midday_ramp.5' ends teleporting on edge 'E1', time=100219.00.
+Warning: Teleporting vehicle 'midday_ramp.6'; waited too long (yield), lane='E2_0', time=100525.00.
+Warning: Vehicle 'midday_ramp.6' ends teleporting on edge 'E1', time=100525.00.
+Warning: Teleporting vehicle 'midday_ramp.7'; waited too long (yield), lane='E2_0', time=100830.00.
+Warning: Vehicle 'midday_ramp.7' ends teleporting on edge 'E1', time=100830.00.
+Warning: Teleporting vehicle 'midday_ramp.8'; waited too long (yield), lane='E2_0', time=101135.00.
+Warning: Vehicle 'midday_ramp.8' ends teleporting on edge 'E1', time=101135.00.
+Warning: Teleporting vehicle 'midday_ramp.9'; waited too long (yield), lane='E2_0', time=101440.00.
+Warning: Vehicle 'midday_ramp.9' ends teleporting on edge 'E1', time=101440.00.
+Warning: Teleporting vehicle 'midday_ramp.10'; waited too long (yield), lane='E2_0', time=101745.00.
+Warning: Vehicle 'midday_ramp.10' ends teleporting on edge 'E1', time=101745.00.
+Warning: Teleporting vehicle 'midday_ramp.11'; waited too long (yield), lane='E2_0', time=102049.00.
+Warning: Vehicle 'midday_ramp.11' ends teleporting on edge 'E1', time=102049.00.
+Warning: Teleporting vehicle 'midday_ramp.12'; waited too long (yield), lane='E2_0', time=102354.00.
+Warning: Vehicle 'midday_ramp.12' ends teleporting on edge 'E1', time=102354.00.
+Warning: Teleporting vehicle 'midday_ramp.13'; waited too long (yield), lane='E2_0', time=102659.00.
+Warning: Vehicle 'midday_ramp.13' ends teleporting on edge 'E1', time=102659.00.
+Warning: Teleporting vehicle 'midday_ramp.14'; waited too long (yield), lane='E2_0', time=102964.00.
+Warning: Vehicle 'midday_ramp.14' ends teleporting on edge 'E1', time=102964.00.
+Warning: Teleporting vehicle 'midday_ramp.15'; waited too long (yield), lane='E2_0', time=103269.00.
+Warning: Vehicle 'midday_ramp.15' ends teleporting on edge 'E1', time=103269.00.
+Warning: Teleporting vehicle 'midday_ramp.16'; waited too long (yield), lane='E2_0', time=103574.00.
+Warning: Vehicle 'midday_ramp.16' ends teleporting on edge 'E1', time=103574.00.
+Warning: Teleporting vehicle 'midday_ramp.17'; waited too long (yield), lane='E2_0', time=103880.00.
+Warning: Vehicle 'midday_ramp.17' ends teleporting on edge 'E1', time=103880.00.
+Warning: Teleporting vehicle 'midday_ramp.18'; waited too long (yield), lane='E2_0', time=104185.00.
+Warning: Vehicle 'midday_ramp.18' ends teleporting on edge 'E1', time=104185.00.
+Warning: Teleporting vehicle 'midday_ramp.19'; waited too long (yield), lane='E2_0', time=104489.00.
+Warning: Vehicle 'midday_ramp.19' ends teleporting on edge 'E1', time=104489.00.
+Warning: Teleporting vehicle 'midday_ramp.20'; waited too long (yield), lane='E2_0', time=104795.00.
+Warning: Vehicle 'midday_ramp.20' ends teleporting on edge 'E1', time=104795.00.
+Warning: Teleporting vehicle 'midday_ramp.21'; waited too long (yield), lane='E2_0', time=105101.00.
+Warning: Vehicle 'midday_ramp.21' ends teleporting on edge 'E1', time=105101.00.
+Warning: Teleporting vehicle 'midday_ramp.22'; waited too long (yield), lane='E2_0', time=105407.00.
+Warning: Vehicle 'midday_ramp.22' ends teleporting on edge 'E1', time=105407.00.
+Warning: Teleporting vehicle 'midday_ramp.23'; waited too long (yield), lane='E2_0', time=105711.00.
+Warning: Vehicle 'midday_ramp.23' ends teleporting on edge 'E1', time=105711.00.
+Warning: Teleporting vehicle 'midday_ramp.24'; waited too long (yield), lane='E2_0', time=106016.00.
+Warning: Vehicle 'midday_ramp.24' ends teleporting on edge 'E1', time=106016.00.
+Warning: Teleporting vehicle 'midday_ramp.25'; waited too long (yield), lane='E2_0', time=106320.00.
+Warning: Vehicle 'midday_ramp.25' ends teleporting on edge 'E1', time=106320.00.
+Warning: Teleporting vehicle 'midday_ramp.26'; waited too long (yield), lane='E2_0', time=106625.00.
+Warning: Vehicle 'midday_ramp.26' ends teleporting on edge 'E1', time=106625.00.
+Warning: Teleporting vehicle 'midday_ramp.27'; waited too long (yield), lane='E2_0', time=106931.00.
+Warning: Vehicle 'midday_ramp.27' ends teleporting on edge 'E1', time=106931.00.
+Warning: Teleporting vehicle 'midday_ramp.28'; waited too long (yield), lane='E2_0', time=107237.00.
+Warning: Vehicle 'midday_ramp.28' ends teleporting on edge 'E1', time=107237.00.
+Warning: Teleporting vehicle 'midday_ramp.29'; waited too long (yield), lane='E2_0', time=107543.00.
+Warning: Vehicle 'midday_ramp.29' ends teleporting on edge 'E1', time=107543.00.
+Warning: Teleporting vehicle 'midday_ramp.30'; waited too long (yield), lane='E2_0', time=107848.00.
+Warning: Vehicle 'midday_ramp.30' ends teleporting on edge 'E1', time=107848.00.
+Warning: Teleporting vehicle 'midday_ramp.31'; waited too long (yield), lane='E2_0', time=108153.00.
+Warning: Vehicle 'midday_ramp.31' ends teleporting on edge 'E1', time=108153.00.
+Warning: Teleporting vehicle 'midday_ramp.32'; waited too long (yield), lane='E2_0', time=108458.00.
+Warning: Vehicle 'midday_ramp.32' ends teleporting on edge 'E1', time=108458.00.
+Warning: Teleporting vehicle 'midday_ramp.33'; waited too long (yield), lane='E2_0', time=108762.00.
+Warning: Vehicle 'midday_ramp.33' ends teleporting on edge 'E1', time=108762.00.
+Warning: Teleporting vehicle 'midday_ramp.34'; waited too long (yield), lane='E2_0', time=109067.00.
+Warning: Vehicle 'midday_ramp.34' ends teleporting on edge 'E1', time=109067.00.
+Warning: Teleporting vehicle 'midday_ramp.35'; waited too long (yield), lane='E2_0', time=109371.00.
+Warning: Vehicle 'midday_ramp.35' ends teleporting on edge 'E1', time=109371.00.
+Warning: Teleporting vehicle 'midday_ramp.36'; waited too long (yield), lane='E2_0', time=109676.00.
+Warning: Vehicle 'midday_ramp.36' ends teleporting on edge 'E1', time=109676.00.
+Warning: Teleporting vehicle 'midday_ramp.37'; waited too long (yield), lane='E2_0', time=109981.00.
+Warning: Vehicle 'midday_ramp.37' ends teleporting on edge 'E1', time=109981.00.
+Warning: Teleporting vehicle 'midday_ramp.38'; waited too long (yield), lane='E2_0', time=110286.00.
+Warning: Vehicle 'midday_ramp.38' ends teleporting on edge 'E1', time=110286.00.
+Warning: Teleporting vehicle 'midday_ramp.39'; waited too long (yield), lane='E2_0', time=110592.00.
+Warning: Vehicle 'midday_ramp.39' ends teleporting on edge 'E1', time=110592.00.
+Warning: Teleporting vehicle 'midday_ramp.40'; waited too long (yield), lane='E2_0', time=110897.00.
+Warning: Vehicle 'midday_ramp.40' ends teleporting on edge 'E1', time=110897.00.
+Warning: Teleporting vehicle 'midday_ramp.41'; waited too long (yield), lane='E2_0', time=111202.00.
+Warning: Vehicle 'midday_ramp.41' ends teleporting on edge 'E1', time=111202.00.
+Warning: Teleporting vehicle 'midday_ramp.42'; waited too long (yield), lane='E2_0', time=111508.00.
+Warning: Vehicle 'midday_ramp.42' ends teleporting on edge 'E1', time=111508.00.
+Warning: Teleporting vehicle 'midday_ramp.43'; waited too long (yield), lane='E2_0', time=111812.00.
+Warning: Vehicle 'midday_ramp.43' ends teleporting on edge 'E1', time=111812.00.
+Warning: Teleporting vehicle 'midday_ramp.44'; waited too long (yield), lane='E2_0', time=112117.00.
+Warning: Vehicle 'midday_ramp.44' ends teleporting on edge 'E1', time=112117.00.
+Warning: Teleporting vehicle 'midday_ramp.45'; waited too long (yield), lane='E2_0', time=112421.00.
+Warning: Vehicle 'midday_ramp.45' ends teleporting on edge 'E1', time=112421.00.
+Warning: Teleporting vehicle 'midday_ramp.46'; waited too long (yield), lane='E2_0', time=112725.00.
+Warning: Vehicle 'midday_ramp.46' ends teleporting on edge 'E1', time=112725.00.
+Warning: Teleporting vehicle 'midday_ramp.47'; waited too long (yield), lane='E2_0', time=113030.00.
+Warning: Vehicle 'midday_ramp.47' ends teleporting on edge 'E1', time=113030.00.
+Warning: Teleporting vehicle 'midday_ramp.48'; waited too long (yield), lane='E2_0', time=113334.00.
+Warning: Vehicle 'midday_ramp.48' ends teleporting on edge 'E1', time=113334.00.
+Warning: Teleporting vehicle 'midday_ramp.49'; waited too long (yield), lane='E2_0', time=113639.00.
+Warning: Vehicle 'midday_ramp.49' ends teleporting on edge 'E1', time=113639.00.
+Warning: Teleporting vehicle 'midday_ramp.50'; waited too long (yield), lane='E2_0', time=113943.00.
+Warning: Vehicle 'midday_ramp.50' ends teleporting on edge 'E1', time=113943.00.
+Warning: Teleporting vehicle 'midday_ramp.51'; waited too long (yield), lane='E2_0', time=114247.00.
+Warning: Vehicle 'midday_ramp.51' ends teleporting on edge 'E1', time=114247.00.
+Warning: Teleporting vehicle 'midday_ramp.52'; waited too long (yield), lane='E2_0', time=114552.00.
+Warning: Vehicle 'midday_ramp.52' ends teleporting on edge 'E1', time=114552.00.
+Warning: Teleporting vehicle 'midday_ramp.53'; waited too long (yield), lane='E2_0', time=114858.00.
+Warning: Vehicle 'midday_ramp.53' ends teleporting on edge 'E1', time=114858.00.
+Warning: Teleporting vehicle 'midday_ramp.54'; waited too long (yield), lane='E2_0', time=115164.00.
+Warning: Vehicle 'midday_ramp.54' ends teleporting on edge 'E1', time=115164.00.
+Warning: Teleporting vehicle 'midday_ramp.55'; waited too long (yield), lane='E2_0', time=115468.00.
+Warning: Vehicle 'midday_ramp.55' ends teleporting on edge 'E1', time=115468.00.
+Warning: Teleporting vehicle 'midday_ramp.56'; waited too long (yield), lane='E2_0', time=115773.00.
+Warning: Vehicle 'midday_ramp.56' ends teleporting on edge 'E1', time=115773.00.
+Warning: Teleporting vehicle 'midday_ramp.57'; waited too long (yield), lane='E2_0', time=116078.00.
+Warning: Vehicle 'midday_ramp.57' ends teleporting on edge 'E1', time=116078.00.
+Warning: Teleporting vehicle 'midday_ramp.58'; waited too long (yield), lane='E2_0', time=116384.00.
+Warning: Vehicle 'midday_ramp.58' ends teleporting on edge 'E1', time=116384.00.
+Warning: Teleporting vehicle 'midday_ramp.59'; waited too long (yield), lane='E2_0', time=116689.00.
+Warning: Vehicle 'midday_ramp.59' ends teleporting on edge 'E1', time=116689.00.
+Warning: Teleporting vehicle 'midday_ramp.60'; waited too long (yield), lane='E2_0', time=116995.00.
+Warning: Vehicle 'midday_ramp.60' ends teleporting on edge 'E1', time=116995.00.
+Warning: Teleporting vehicle 'midday_ramp.61'; waited too long (yield), lane='E2_0', time=117301.00.
+Warning: Vehicle 'midday_ramp.61' ends teleporting on edge 'E1', time=117301.00.
+Warning: Teleporting vehicle 'midday_ramp.62'; waited too long (yield), lane='E2_0', time=117606.00.
+Warning: Vehicle 'midday_ramp.62' ends teleporting on edge 'E1', time=117606.00.
+Warning: Teleporting vehicle 'midday_ramp.63'; waited too long (yield), lane='E2_0', time=117910.00.
+Warning: Vehicle 'midday_ramp.63' ends teleporting on edge 'E1', time=117910.00.
+Warning: Teleporting vehicle 'midday_ramp.64'; waited too long (yield), lane='E2_0', time=118214.00.
+Warning: Vehicle 'midday_ramp.64' ends teleporting on edge 'E1', time=118214.00.
+Warning: Teleporting vehicle 'midday_ramp.65'; waited too long (yield), lane='E2_0', time=118519.00.
+Warning: Vehicle 'midday_ramp.65' ends teleporting on edge 'E1', time=118519.00.
+Warning: Teleporting vehicle 'midday_ramp.66'; waited too long (yield), lane='E2_0', time=118825.00.
+Warning: Vehicle 'midday_ramp.66' ends teleporting on edge 'E1', time=118825.00.
+Warning: Teleporting vehicle 'midday_ramp.67'; waited too long (yield), lane='E2_0', time=119131.00.
+Warning: Vehicle 'midday_ramp.67' ends teleporting on edge 'E1', time=119131.00.
+Warning: Teleporting vehicle 'midday_ramp.68'; waited too long (yield), lane='E2_0', time=119437.00.
+Warning: Vehicle 'midday_ramp.68' ends teleporting on edge 'E1', time=119437.00.
+Warning: Teleporting vehicle 'midday_ramp.69'; waited too long (yield), lane='E2_0', time=119742.00.
+Warning: Vehicle 'midday_ramp.69' ends teleporting on edge 'E1', time=119742.00.
+Warning: Teleporting vehicle 'midday_ramp.70'; waited too long (yield), lane='E2_0', time=120048.00.
+Warning: Vehicle 'midday_ramp.70' ends teleporting on edge 'E1', time=120048.00.
+Warning: Teleporting vehicle 'midday_ramp.71'; waited too long (yield), lane='E2_0', time=120353.00.
+Warning: Vehicle 'midday_ramp.71' ends teleporting on edge 'E1', time=120353.00.
+Warning: Teleporting vehicle 'midday_ramp.72'; waited too long (yield), lane='E2_0', time=120658.00.
+Warning: Vehicle 'midday_ramp.72' ends teleporting on edge 'E1', time=120658.00.
+Warning: Teleporting vehicle 'midday_ramp.73'; waited too long (yield), lane='E2_0', time=120964.00.
+Warning: Vehicle 'midday_ramp.73' ends teleporting on edge 'E1', time=120964.00.
+Warning: Teleporting vehicle 'midday_ramp.74'; waited too long (yield), lane='E2_0', time=121268.00.
+Warning: Vehicle 'midday_ramp.74' ends teleporting on edge 'E1', time=121268.00.
+Warning: Teleporting vehicle 'midday_ramp.75'; waited too long (yield), lane='E2_0', time=121574.00.
+Warning: Vehicle 'midday_ramp.75' ends teleporting on edge 'E1', time=121574.00.
+Warning: Teleporting vehicle 'midday_ramp.76'; waited too long (yield), lane='E2_0', time=121879.00.
+Warning: Vehicle 'midday_ramp.76' ends teleporting on edge 'E1', time=121879.00.
+Warning: Teleporting vehicle 'midday_ramp.77'; waited too long (yield), lane='E2_0', time=122185.00.
+Warning: Vehicle 'midday_ramp.77' ends teleporting on edge 'E1', time=122185.00.
+Warning: Teleporting vehicle 'midday_ramp.78'; waited too long (yield), lane='E2_0', time=122490.00.
+Warning: Vehicle 'midday_ramp.78' ends teleporting on edge 'E1', time=122490.00.
+Warning: Teleporting vehicle 'midday_ramp.79'; waited too long (yield), lane='E2_0', time=122794.00.
+Warning: Vehicle 'midday_ramp.79' ends teleporting on edge 'E1', time=122794.00.
+Warning: Teleporting vehicle 'midday_ramp.80'; waited too long (yield), lane='E2_0', time=123098.00.
+Warning: Vehicle 'midday_ramp.80' ends teleporting on edge 'E1', time=123098.00.
+Warning: Teleporting vehicle 'midday_ramp.81'; waited too long (yield), lane='E2_0', time=123403.00.
+Warning: Vehicle 'midday_ramp.81' ends teleporting on edge 'E1', time=123403.00.
+Warning: Teleporting vehicle 'midday_ramp.82'; waited too long (yield), lane='E2_0', time=123708.00.
+Warning: Vehicle 'midday_ramp.82' ends teleporting on edge 'E1', time=123708.00.
+Warning: Teleporting vehicle 'midday_ramp.83'; waited too long (yield), lane='E2_0', time=124014.00.
+Warning: Vehicle 'midday_ramp.83' ends teleporting on edge 'E1', time=124014.00.
+Warning: Teleporting vehicle 'midday_ramp.84'; waited too long (yield), lane='E2_0', time=124318.00.
+Warning: Vehicle 'midday_ramp.84' ends teleporting on edge 'E1', time=124318.00.
+Warning: Teleporting vehicle 'midday_ramp.85'; waited too long (yield), lane='E2_0', time=124622.00.
+Warning: Vehicle 'midday_ramp.85' ends teleporting on edge 'E1', time=124622.00.
+Warning: Teleporting vehicle 'midday_ramp.86'; waited too long (yield), lane='E2_0', time=124927.00.
+Warning: Vehicle 'midday_ramp.86' ends teleporting on edge 'E1', time=124927.00.
+Warning: Teleporting vehicle 'midday_ramp.87'; waited too long (yield), lane='E2_0', time=125232.00.
+Warning: Vehicle 'midday_ramp.87' ends teleporting on edge 'E1', time=125232.00.
+Warning: Teleporting vehicle 'midday_ramp.88'; waited too long (yield), lane='E2_0', time=125537.00.
+Warning: Vehicle 'midday_ramp.88' ends teleporting on edge 'E1', time=125537.00.
+Warning: Teleporting vehicle 'midday_ramp.89'; waited too long (yield), lane='E2_0', time=125841.00.
+Warning: Vehicle 'midday_ramp.89' ends teleporting on edge 'E1', time=125841.00.
+Warning: Teleporting vehicle 'midday_ramp.90'; waited too long (yield), lane='E2_0', time=126146.00.
+Warning: Vehicle 'midday_ramp.90' ends teleporting on edge 'E1', time=126146.00.
+Warning: Teleporting vehicle 'midday_ramp.91'; waited too long (yield), lane='E2_0', time=126451.00.
+Warning: Vehicle 'midday_ramp.91' ends teleporting on edge 'E1', time=126451.00.
+Warning: Teleporting vehicle 'midday_ramp.92'; waited too long (yield), lane='E2_0', time=126755.00.
+Warning: Vehicle 'midday_ramp.92' ends teleporting on edge 'E1', time=126755.00.
+Warning: Teleporting vehicle 'midday_ramp.93'; waited too long (yield), lane='E2_0', time=127060.00.
+Warning: Vehicle 'midday_ramp.93' ends teleporting on edge 'E1', time=127060.00.
+Warning: Teleporting vehicle 'midday_ramp.94'; waited too long (yield), lane='E2_0', time=127366.00.
+Warning: Vehicle 'midday_ramp.94' ends teleporting on edge 'E1', time=127366.00.
+Warning: Teleporting vehicle 'midday_ramp.95'; waited too long (yield), lane='E2_0', time=127671.00.
+Warning: Vehicle 'midday_ramp.95' ends teleporting on edge 'E1', time=127671.00.
+Warning: Teleporting vehicle 'midday_ramp.96'; waited too long (yield), lane='E2_0', time=127975.00.
+Warning: Vehicle 'midday_ramp.96' ends teleporting on edge 'E1', time=127975.00.
+Warning: Teleporting vehicle 'midday_ramp.97'; waited too long (yield), lane='E2_0', time=128280.00.
+Warning: Vehicle 'midday_ramp.97' ends teleporting on edge 'E1', time=128280.00.
+Warning: Teleporting vehicle 'midday_ramp.98'; waited too long (yield), lane='E2_0', time=128585.00.
+Warning: Vehicle 'midday_ramp.98' ends teleporting on edge 'E1', time=128585.00.
+Warning: Teleporting vehicle 'midday_ramp.99'; waited too long (yield), lane='E2_0', time=128891.00.
+Warning: Vehicle 'midday_ramp.99' ends teleporting on edge 'E1', time=128891.00.
+Warning: Teleporting vehicle 'midday_ramp.100'; waited too long (yield), lane='E2_0', time=129197.00.
+Warning: Vehicle 'midday_ramp.100' ends teleporting on edge 'E1', time=129197.00.
+Warning: Teleporting vehicle 'midday_ramp.101'; waited too long (yield), lane='E2_0', time=129503.00.
+Warning: Vehicle 'midday_ramp.101' ends teleporting on edge 'E1', time=129503.00.
+Warning: Teleporting vehicle 'midday_ramp.102'; waited too long (yield), lane='E2_0', time=129809.00.
+Warning: Vehicle 'midday_ramp.102' ends teleporting on edge 'E1', time=129809.00.
+Warning: Teleporting vehicle 'midday_ramp.103'; waited too long (yield), lane='E2_0', time=130114.00.
+Warning: Vehicle 'midday_ramp.103' ends teleporting on edge 'E1', time=130114.00.
+Warning: Teleporting vehicle 'midday_ramp.104'; waited too long (yield), lane='E2_0', time=130418.00.
+Warning: Vehicle 'midday_ramp.104' ends teleporting on edge 'E1', time=130418.00.
+Warning: Teleporting vehicle 'midday_ramp.105'; waited too long (yield), lane='E2_0', time=130724.00.
+Warning: Vehicle 'midday_ramp.105' ends teleporting on edge 'E1', time=130724.00.
+Warning: Teleporting vehicle 'midday_ramp.106'; waited too long (yield), lane='E2_0', time=131030.00.
+Warning: Vehicle 'midday_ramp.106' ends teleporting on edge 'E1', time=131030.00.
+Warning: Teleporting vehicle 'midday_ramp.107'; waited too long (yield), lane='E2_0', time=131335.00.
+Warning: Vehicle 'midday_ramp.107' ends teleporting on edge 'E1', time=131335.00.
+Warning: Teleporting vehicle 'midday_ramp.108'; waited too long (yield), lane='E2_0', time=131639.00.
+Warning: Vehicle 'midday_ramp.108' ends teleporting on edge 'E1', time=131639.00.
+Warning: Teleporting vehicle 'midday_ramp.109'; waited too long (yield), lane='E2_0', time=131944.00.
+Warning: Vehicle 'midday_ramp.109' ends teleporting on edge 'E1', time=131944.00.
+Warning: Teleporting vehicle 'midday_ramp.110'; waited too long (yield), lane='E2_0', time=132248.00.
+Warning: Vehicle 'midday_ramp.110' ends teleporting on edge 'E1', time=132248.00.
+Warning: Teleporting vehicle 'midday_ramp.111'; waited too long (yield), lane='E2_0', time=132553.00.
+Warning: Vehicle 'midday_ramp.111' ends teleporting on edge 'E1', time=132553.00.
+Warning: Teleporting vehicle 'midday_ramp.112'; waited too long (yield), lane='E2_0', time=132857.00.
+Warning: Vehicle 'midday_ramp.112' ends teleporting on edge 'E1', time=132857.00.
+Warning: Teleporting vehicle 'midday_ramp.113'; waited too long (yield), lane='E2_0', time=133161.00.
+Warning: Vehicle 'midday_ramp.113' ends teleporting on edge 'E1', time=133161.00.
+Warning: Teleporting vehicle 'midday_ramp.114'; waited too long (yield), lane='E2_0', time=133465.00.
+Warning: Vehicle 'midday_ramp.114' ends teleporting on edge 'E1', time=133465.00.
+Warning: Teleporting vehicle 'midday_ramp.115'; waited too long (yield), lane='E2_0', time=133770.00.
+Warning: Vehicle 'midday_ramp.115' ends teleporting on edge 'E1', time=133770.00.
+Warning: Teleporting vehicle 'midday_ramp.116'; waited too long (yield), lane='E2_0', time=134076.00.
+Warning: Vehicle 'midday_ramp.116' ends teleporting on edge 'E1', time=134076.00.
+Warning: Teleporting vehicle 'midday_ramp.117'; waited too long (yield), lane='E2_0', time=134380.00.
+Warning: Vehicle 'midday_ramp.117' ends teleporting on edge 'E1', time=134380.00.
+Warning: Teleporting vehicle 'midday_ramp.118'; waited too long (yield), lane='E2_0', time=134684.00.
+Warning: Vehicle 'midday_ramp.118' ends teleporting on edge 'E1', time=134684.00.
+Warning: Teleporting vehicle 'midday_ramp.119'; waited too long (yield), lane='E2_0', time=134988.00.
+Warning: Vehicle 'midday_ramp.119' ends teleporting on edge 'E1', time=134988.00.
+Warning: Teleporting vehicle 'midday_ramp.120'; waited too long (yield), lane='E2_0', time=135293.00.
+Warning: Vehicle 'midday_ramp.120' ends teleporting on edge 'E1', time=135293.00.
+Warning: Teleporting vehicle 'midday_ramp.121'; waited too long (yield), lane='E2_0', time=135597.00.
+Warning: Vehicle 'midday_ramp.121' ends teleporting on edge 'E1', time=135597.00.
+Warning: Teleporting vehicle 'midday_ramp.122'; waited too long (yield), lane='E2_0', time=135902.00.
+Warning: Vehicle 'midday_ramp.122' ends teleporting on edge 'E1', time=135902.00.
+Warning: Teleporting vehicle 'midday_ramp.123'; waited too long (yield), lane='E2_0', time=136208.00.
+Warning: Vehicle 'midday_ramp.123' ends teleporting on edge 'E1', time=136208.00.
+Warning: Teleporting vehicle 'midday_ramp.124'; waited too long (yield), lane='E2_0', time=136514.00.
+Warning: Vehicle 'midday_ramp.124' ends teleporting on edge 'E1', time=136514.00.
+Warning: Teleporting vehicle 'midday_ramp.125'; waited too long (yield), lane='E2_0', time=136819.00.
+Warning: Vehicle 'midday_ramp.125' ends teleporting on edge 'E1', time=136819.00.
+Warning: Teleporting vehicle 'midday_ramp.126'; waited too long (yield), lane='E2_0', time=137124.00.
+Warning: Vehicle 'midday_ramp.126' ends teleporting on edge 'E1', time=137124.00.
+Warning: Teleporting vehicle 'midday_ramp.127'; waited too long (yield), lane='E2_0', time=137429.00.
+Warning: Vehicle 'midday_ramp.127' ends teleporting on edge 'E1', time=137429.00.
+Warning: Teleporting vehicle 'midday_ramp.128'; waited too long (yield), lane='E2_0', time=137733.00.
+Warning: Vehicle 'midday_ramp.128' ends teleporting on edge 'E1', time=137733.00.
+Warning: Teleporting vehicle 'midday_ramp.129'; waited too long (yield), lane='E2_0', time=138038.00.
+Warning: Vehicle 'midday_ramp.129' ends teleporting on edge 'E1', time=138038.00.
+Warning: Teleporting vehicle 'midday_ramp.130'; waited too long (yield), lane='E2_0', time=138343.00.
+Warning: Vehicle 'midday_ramp.130' ends teleporting on edge 'E1', time=138343.00.
+Warning: Teleporting vehicle 'midday_ramp.131'; waited too long (yield), lane='E2_0', time=138648.00.
+Warning: Vehicle 'midday_ramp.131' ends teleporting on edge 'E1', time=138648.00.
+Warning: Teleporting vehicle 'midday_ramp.132'; waited too long (yield), lane='E2_0', time=138952.00.
+Warning: Vehicle 'midday_ramp.132' ends teleporting on edge 'E1', time=138952.00.
+Warning: Teleporting vehicle 'midday_ramp.133'; waited too long (yield), lane='E2_0', time=139258.00.
+Warning: Vehicle 'midday_ramp.133' ends teleporting on edge 'E1', time=139258.00.
+Warning: Teleporting vehicle 'midday_ramp.134'; waited too long (yield), lane='E2_0', time=139563.00.
+Warning: Vehicle 'midday_ramp.134' ends teleporting on edge 'E1', time=139563.00.
+Warning: Teleporting vehicle 'midday_ramp.135'; waited too long (yield), lane='E2_0', time=139867.00.
+Warning: Vehicle 'midday_ramp.135' ends teleporting on edge 'E1', time=139867.00.
+Warning: Teleporting vehicle 'midday_ramp.136'; waited too long (yield), lane='E2_0', time=140172.00.
+Warning: Vehicle 'midday_ramp.136' ends teleporting on edge 'E1', time=140172.00.
+Warning: Teleporting vehicle 'midday_ramp.137'; waited too long (yield), lane='E2_0', time=140477.00.
+Warning: Vehicle 'midday_ramp.137' ends teleporting on edge 'E1', time=140477.00.
+Warning: Teleporting vehicle 'midday_ramp.138'; waited too long (yield), lane='E2_0', time=140782.00.
+Warning: Vehicle 'midday_ramp.138' ends teleporting on edge 'E1', time=140782.00.
+Warning: Teleporting vehicle 'midday_ramp.139'; waited too long (yield), lane='E2_0', time=141087.00.
+Warning: Vehicle 'midday_ramp.139' ends teleporting on edge 'E1', time=141087.00.
+Warning: Teleporting vehicle 'midday_ramp.140'; waited too long (yield), lane='E2_0', time=141392.00.
+Warning: Vehicle 'midday_ramp.140' ends teleporting on edge 'E1', time=141392.00.
+Warning: Teleporting vehicle 'midday_ramp.141'; waited too long (yield), lane='E2_0', time=141696.00.
+Warning: Vehicle 'midday_ramp.141' ends teleporting on edge 'E1', time=141696.00.
+Warning: Teleporting vehicle 'midday_ramp.142'; waited too long (yield), lane='E2_0', time=142001.00.
+Warning: Vehicle 'midday_ramp.142' ends teleporting on edge 'E1', time=142001.00.
+Warning: Teleporting vehicle 'midday_ramp.143'; waited too long (yield), lane='E2_0', time=142307.00.
+Warning: Vehicle 'midday_ramp.143' ends teleporting on edge 'E1', time=142307.00.
+Warning: Teleporting vehicle 'midday_ramp.144'; waited too long (yield), lane='E2_0', time=142611.00.
+Warning: Vehicle 'midday_ramp.144' ends teleporting on edge 'E1', time=142611.00.
+Warning: Teleporting vehicle 'midday_ramp.145'; waited too long (yield), lane='E2_0', time=142917.00.
+Warning: Vehicle 'midday_ramp.145' ends teleporting on edge 'E1', time=142917.00.
+Warning: Teleporting vehicle 'midday_ramp.146'; waited too long (yield), lane='E2_0', time=143223.00.
+Warning: Vehicle 'midday_ramp.146' ends teleporting on edge 'E1', time=143223.00.
+Warning: Teleporting vehicle 'midday_ramp.147'; waited too long (yield), lane='E2_0', time=143527.00.
+Warning: Vehicle 'midday_ramp.147' ends teleporting on edge 'E1', time=143527.00.
+Warning: Teleporting vehicle 'midday_ramp.148'; waited too long (yield), lane='E2_0', time=143833.00.
+Warning: Vehicle 'midday_ramp.148' ends teleporting on edge 'E1', time=143833.00.
+Warning: Teleporting vehicle 'midday_ramp.149'; waited too long (yield), lane='E2_0', time=144138.00.
+Warning: Vehicle 'midday_ramp.149' ends teleporting on edge 'E1', time=144138.00.
+Warning: Teleporting vehicle 'midday_ramp.150'; waited too long (yield), lane='E2_0', time=144444.00.
+Warning: Vehicle 'midday_ramp.150' ends teleporting on edge 'E1', time=144444.00.
+Warning: Teleporting vehicle 'midday_ramp.151'; waited too long (yield), lane='E2_0', time=144750.00.
+Warning: Vehicle 'midday_ramp.151' ends teleporting on edge 'E1', time=144750.00.
+Warning: Teleporting vehicle 'midday_ramp.152'; waited too long (yield), lane='E2_0', time=145054.00.
+Warning: Vehicle 'midday_ramp.152' ends teleporting on edge 'E1', time=145054.00.
+Warning: Teleporting vehicle 'midday_ramp.153'; waited too long (yield), lane='E2_0', time=145358.00.
+Warning: Vehicle 'midday_ramp.153' ends teleporting on edge 'E1', time=145358.00.
+Warning: Teleporting vehicle 'midday_ramp.154'; waited too long (yield), lane='E2_0', time=145663.00.
+Warning: Vehicle 'midday_ramp.154' ends teleporting on edge 'E1', time=145663.00.
+Warning: Teleporting vehicle 'midday_ramp.155'; waited too long (yield), lane='E2_0', time=145969.00.
+Warning: Vehicle 'midday_ramp.155' ends teleporting on edge 'E1', time=145969.00.
+Warning: Teleporting vehicle 'midday_ramp.156'; waited too long (yield), lane='E2_0', time=146273.00.
+Warning: Vehicle 'midday_ramp.156' ends teleporting on edge 'E1', time=146273.00.
+Warning: Teleporting vehicle 'midday_ramp.157'; waited too long (yield), lane='E2_0', time=146578.00.
+Warning: Vehicle 'midday_ramp.157' ends teleporting on edge 'E1', time=146578.00.
+Warning: Teleporting vehicle 'midday_ramp.158'; waited too long (yield), lane='E2_0', time=146883.00.
+Warning: Vehicle 'midday_ramp.158' ends teleporting on edge 'E1', time=146883.00.
+Warning: Teleporting vehicle 'midday_ramp.159'; waited too long (yield), lane='E2_0', time=147187.00.
+Warning: Vehicle 'midday_ramp.159' ends teleporting on edge 'E1', time=147187.00.
+Warning: Teleporting vehicle 'midday_ramp.160'; waited too long (yield), lane='E2_0', time=147492.00.
+Warning: Vehicle 'midday_ramp.160' ends teleporting on edge 'E1', time=147492.00.
+Warning: Teleporting vehicle 'midday_ramp.161'; waited too long (yield), lane='E2_0', time=147797.00.
+Warning: Vehicle 'midday_ramp.161' ends teleporting on edge 'E1', time=147797.00.
+Warning: Teleporting vehicle 'midday_ramp.162'; waited too long (yield), lane='E2_0', time=148104.00.
+Warning: Vehicle 'midday_ramp.162' ends teleporting on edge 'E1', time=148104.00.
+Warning: Teleporting vehicle 'midday_ramp.163'; waited too long (yield), lane='E2_0', time=148408.00.
+Warning: Vehicle 'midday_ramp.163' ends teleporting on edge 'E1', time=148408.00.
+Warning: Teleporting vehicle 'midday_ramp.164'; waited too long (yield), lane='E2_0', time=148713.00.
+Warning: Vehicle 'midday_ramp.164' ends teleporting on edge 'E1', time=148713.00.
+Warning: Teleporting vehicle 'midday_ramp.165'; waited too long (yield), lane='E2_0', time=149018.00.
+Warning: Vehicle 'midday_ramp.165' ends teleporting on edge 'E1', time=149018.00.
+Warning: Teleporting vehicle 'midday_ramp.166'; waited too long (yield), lane='E2_0', time=149323.00.
+Warning: Vehicle 'midday_ramp.166' ends teleporting on edge 'E1', time=149323.00.
+Warning: Teleporting vehicle 'midday_ramp.167'; waited too long (yield), lane='E2_0', time=149629.00.
+Warning: Vehicle 'midday_ramp.167' ends teleporting on edge 'E1', time=149629.00.
+Warning: Teleporting vehicle 'midday_ramp.168'; waited too long (yield), lane='E2_0', time=149935.00.
+Warning: Vehicle 'midday_ramp.168' ends teleporting on edge 'E1', time=149935.00.
+Warning: Teleporting vehicle 'midday_ramp.169'; waited too long (yield), lane='E2_0', time=150239.00.
+Warning: Vehicle 'midday_ramp.169' ends teleporting on edge 'E1', time=150239.00.
+Warning: Teleporting vehicle 'midday_ramp.170'; waited too long (yield), lane='E2_0', time=150543.00.
+Warning: Vehicle 'midday_ramp.170' ends teleporting on edge 'E1', time=150543.00.
+Warning: Teleporting vehicle 'midday_ramp.171'; waited too long (yield), lane='E2_0', time=150848.00.
+Warning: Vehicle 'midday_ramp.171' ends teleporting on edge 'E1', time=150848.00.
+Warning: Teleporting vehicle 'midday_ramp.172'; waited too long (yield), lane='E2_0', time=151154.00.
+Warning: Vehicle 'midday_ramp.172' ends teleporting on edge 'E1', time=151154.00.
+Warning: Teleporting vehicle 'midday_ramp.173'; waited too long (yield), lane='E2_0', time=151460.00.
+Warning: Vehicle 'midday_ramp.173' ends teleporting on edge 'E1', time=151460.00.
+Warning: Teleporting vehicle 'midday_ramp.174'; waited too long (yield), lane='E2_0', time=151765.00.
+Warning: Vehicle 'midday_ramp.174' ends teleporting on edge 'E1', time=151765.00.
+Warning: Teleporting vehicle 'midday_ramp.175'; waited too long (yield), lane='E2_0', time=152070.00.
+Warning: Vehicle 'midday_ramp.175' ends teleporting on edge 'E1', time=152070.00.
+Warning: Teleporting vehicle 'midday_ramp.176'; waited too long (yield), lane='E2_0', time=152374.00.
+Warning: Vehicle 'midday_ramp.176' ends teleporting on edge 'E1', time=152374.00.
+Warning: Teleporting vehicle 'midday_ramp.177'; waited too long (yield), lane='E2_0', time=152679.00.
+Warning: Vehicle 'midday_ramp.177' ends teleporting on edge 'E1', time=152679.00.
+Warning: Teleporting vehicle 'midday_ramp.178'; waited too long (yield), lane='E2_0', time=152984.00.
+Warning: Vehicle 'midday_ramp.178' ends teleporting on edge 'E1', time=152984.00.
+Warning: Teleporting vehicle 'midday_ramp.179'; waited too long (yield), lane='E2_0', time=153290.00.
+Warning: Vehicle 'midday_ramp.179' ends teleporting on edge 'E1', time=153290.00.
+Warning: Teleporting vehicle 'midday_ramp.180'; waited too long (yield), lane='E2_0', time=153594.00.
+Warning: Vehicle 'midday_ramp.180' ends teleporting on edge 'E1', time=153594.00.
+Warning: Teleporting vehicle 'midday_ramp.181'; waited too long (yield), lane='E2_0', time=153899.00.
+Warning: Vehicle 'midday_ramp.181' ends teleporting on edge 'E1', time=153899.00.
+Warning: Teleporting vehicle 'midday_ramp.182'; waited too long (yield), lane='E2_0', time=154205.00.
+Warning: Vehicle 'midday_ramp.182' ends teleporting on edge 'E1', time=154205.00.
+Warning: Teleporting vehicle 'midday_ramp.183'; waited too long (yield), lane='E2_0', time=154510.00.
+Warning: Vehicle 'midday_ramp.183' ends teleporting on edge 'E1', time=154510.00.
+Warning: Teleporting vehicle 'midday_ramp.184'; waited too long (yield), lane='E2_0', time=154816.00.
+Warning: Vehicle 'midday_ramp.184' ends teleporting on edge 'E1', time=154816.00.
+Warning: Teleporting vehicle 'midday_ramp.185'; waited too long (yield), lane='E2_0', time=155122.00.
+Warning: Vehicle 'midday_ramp.185' ends teleporting on edge 'E1', time=155122.00.
+Warning: Teleporting vehicle 'midday_ramp.186'; waited too long (yield), lane='E2_0', time=155428.00.
+Warning: Vehicle 'midday_ramp.186' ends teleporting on edge 'E1', time=155428.00.
+Warning: Teleporting vehicle 'midday_ramp.187'; waited too long (yield), lane='E2_0', time=155733.00.
+Warning: Vehicle 'midday_ramp.187' ends teleporting on edge 'E1', time=155733.00.
+Warning: Teleporting vehicle 'midday_ramp.188'; waited too long (yield), lane='E2_0', time=156038.00.
+Warning: Vehicle 'midday_ramp.188' ends teleporting on edge 'E1', time=156038.00.
+Warning: Teleporting vehicle 'midday_ramp.189'; waited too long (yield), lane='E2_0', time=156344.00.
+Warning: Vehicle 'midday_ramp.189' ends teleporting on edge 'E1', time=156344.00.
+Warning: Teleporting vehicle 'midday_ramp.190'; waited too long (yield), lane='E2_0', time=156648.00.
+Warning: Vehicle 'midday_ramp.190' ends teleporting on edge 'E1', time=156648.00.
+Warning: Teleporting vehicle 'midday_ramp.191'; waited too long (yield), lane='E2_0', time=156954.00.
+Warning: Vehicle 'midday_ramp.191' ends teleporting on edge 'E1', time=156954.00.
+Warning: Teleporting vehicle 'midday_ramp.192'; waited too long (yield), lane='E2_0', time=157258.00.
+Warning: Vehicle 'midday_ramp.192' ends teleporting on edge 'E1', time=157258.00.
+Warning: Teleporting vehicle 'midday_ramp.193'; waited too long (yield), lane='E2_0', time=157564.00.
+Warning: Vehicle 'midday_ramp.193' ends teleporting on edge 'E1', time=157564.00.
+Warning: Teleporting vehicle 'midday_ramp.194'; waited too long (yield), lane='E2_0', time=157868.00.
+Warning: Vehicle 'midday_ramp.194' ends teleporting on edge 'E1', time=157868.00.
+Warning: Teleporting vehicle 'midday_ramp.195'; waited too long (yield), lane='E2_0', time=158173.00.
+Warning: Vehicle 'midday_ramp.195' ends teleporting on edge 'E1', time=158173.00.
+Warning: Teleporting vehicle 'midday_ramp.196'; waited too long (yield), lane='E2_0', time=158478.00.
+Warning: Vehicle 'midday_ramp.196' ends teleporting on edge 'E1', time=158478.00.
+Warning: Teleporting vehicle 'midday_ramp.197'; waited too long (yield), lane='E2_0', time=158782.00.
+Warning: Vehicle 'midday_ramp.197' ends teleporting on edge 'E1', time=158782.00.
+Warning: Teleporting vehicle 'midday_ramp.198'; waited too long (yield), lane='E2_0', time=159086.00.
+Warning: Vehicle 'midday_ramp.198' ends teleporting on edge 'E1', time=159086.00.
+Warning: Teleporting vehicle 'midday_ramp.199'; waited too long (yield), lane='E2_0', time=159391.00.
+Warning: Vehicle 'midday_ramp.199' ends teleporting on edge 'E1', time=159391.00.
+Warning: Teleporting vehicle 'midday_ramp.200'; waited too long (yield), lane='E2_0', time=159696.00.
+Warning: Vehicle 'midday_ramp.200' ends teleporting on edge 'E1', time=159696.00.
+Warning: Teleporting vehicle 'midday_ramp.201'; waited too long (yield), lane='E2_0', time=160001.00.
+Warning: Vehicle 'midday_ramp.201' ends teleporting on edge 'E1', time=160001.00.
+Warning: Teleporting vehicle 'midday_ramp.202'; waited too long (yield), lane='E2_0', time=160307.00.
+Warning: Vehicle 'midday_ramp.202' ends teleporting on edge 'E1', time=160307.00.
+Warning: Teleporting vehicle 'midday_ramp.203'; waited too long (yield), lane='E2_0', time=160613.00.
+Warning: Vehicle 'midday_ramp.203' ends teleporting on edge 'E1', time=160613.00.
+Warning: Teleporting vehicle 'midday_ramp.204'; waited too long (yield), lane='E2_0', time=160918.00.
+Warning: Vehicle 'midday_ramp.204' ends teleporting on edge 'E1', time=160918.00.
+Warning: Teleporting vehicle 'midday_ramp.205'; waited too long (yield), lane='E2_0', time=161223.00.
+Warning: Vehicle 'midday_ramp.205' ends teleporting on edge 'E1', time=161223.00.
+Warning: Teleporting vehicle 'midday_ramp.206'; waited too long (yield), lane='E2_0', time=161527.00.
+Warning: Vehicle 'midday_ramp.206' ends teleporting on edge 'E1', time=161527.00.
+Warning: Teleporting vehicle 'midday_ramp.207'; waited too long (yield), lane='E2_0', time=161832.00.
+Warning: Vehicle 'midday_ramp.207' ends teleporting on edge 'E1', time=161832.00.
+Warning: Teleporting vehicle 'midday_ramp.208'; waited too long (yield), lane='E2_0', time=162137.00.
+Warning: Vehicle 'midday_ramp.208' ends teleporting on edge 'E1', time=162137.00.
+Warning: Teleporting vehicle 'midday_ramp.209'; waited too long (yield), lane='E2_0', time=162442.00.
+Warning: Vehicle 'midday_ramp.209' ends teleporting on edge 'E1', time=162442.00.
+Warning: Teleporting vehicle 'midday_ramp.210'; waited too long (yield), lane='E2_0', time=162746.00.
+Warning: Vehicle 'midday_ramp.210' ends teleporting on edge 'E1', time=162746.00.
+Warning: Teleporting vehicle 'midday_ramp.211'; waited too long (yield), lane='E2_0', time=163052.00.
+Warning: Vehicle 'midday_ramp.211' ends teleporting on edge 'E1', time=163052.00.
+Warning: Teleporting vehicle 'midday_ramp.212'; waited too long (yield), lane='E2_0', time=163356.00.
+Warning: Vehicle 'midday_ramp.212' ends teleporting on edge 'E1', time=163356.00.
+Warning: Teleporting vehicle 'midday_ramp.213'; waited too long (yield), lane='E2_0', time=163661.00.
+Warning: Vehicle 'midday_ramp.213' ends teleporting on edge 'E1', time=163661.00.
+Warning: Teleporting vehicle 'midday_ramp.214'; waited too long (yield), lane='E2_0', time=163966.00.
+Warning: Vehicle 'midday_ramp.214' ends teleporting on edge 'E1', time=163966.00.
+Warning: Teleporting vehicle 'midday_ramp.215'; waited too long (yield), lane='E2_0', time=164272.00.
+Warning: Vehicle 'midday_ramp.215' ends teleporting on edge 'E1', time=164272.00.
+Warning: Teleporting vehicle 'midday_ramp.216'; waited too long (yield), lane='E2_0', time=164577.00.
+Warning: Vehicle 'midday_ramp.216' ends teleporting on edge 'E1', time=164577.00.
+Warning: Teleporting vehicle 'midday_ramp.217'; waited too long (yield), lane='E2_0', time=164882.00.
+Warning: Vehicle 'midday_ramp.217' ends teleporting on edge 'E1', time=164882.00.
+Warning: Teleporting vehicle 'midday_ramp.218'; waited too long (yield), lane='E2_0', time=165188.00.
+Warning: Vehicle 'midday_ramp.218' ends teleporting on edge 'E1', time=165188.00.
+Warning: Teleporting vehicle 'midday_ramp.219'; waited too long (yield), lane='E2_0', time=165494.00.
+Warning: Vehicle 'midday_ramp.219' ends teleporting on edge 'E1', time=165494.00.
+Warning: Teleporting vehicle 'midday_ramp.220'; waited too long (yield), lane='E2_0', time=165799.00.
+Warning: Vehicle 'midday_ramp.220' ends teleporting on edge 'E1', time=165799.00.
+Warning: Teleporting vehicle 'midday_ramp.221'; waited too long (yield), lane='E2_0', time=166105.00.
+Warning: Vehicle 'midday_ramp.221' ends teleporting on edge 'E1', time=166105.00.
+Warning: Teleporting vehicle 'midday_ramp.222'; waited too long (yield), lane='E2_0', time=166412.00.
+Warning: Vehicle 'midday_ramp.222' ends teleporting on edge 'E1', time=166412.00.
+Warning: Teleporting vehicle 'midday_ramp.223'; waited too long (yield), lane='E2_0', time=166717.00.
+Warning: Vehicle 'midday_ramp.223' ends teleporting on edge 'E1', time=166717.00.
+Warning: Teleporting vehicle 'midday_ramp.224'; waited too long (yield), lane='E2_0', time=167021.00.
+Warning: Vehicle 'midday_ramp.224' ends teleporting on edge 'E1', time=167021.00.
+Warning: Teleporting vehicle 'midday_ramp.225'; waited too long (yield), lane='E2_0', time=167325.00.
+Warning: Vehicle 'midday_ramp.225' ends teleporting on edge 'E1', time=167325.00.
+Warning: Teleporting vehicle 'midday_ramp.226'; waited too long (yield), lane='E2_0', time=167630.00.
+Warning: Vehicle 'midday_ramp.226' ends teleporting on edge 'E1', time=167630.00.
+Warning: Teleporting vehicle 'midday_ramp.227'; waited too long (yield), lane='E2_0', time=167935.00.
+Warning: Vehicle 'midday_ramp.227' ends teleporting on edge 'E1', time=167935.00.
+Warning: Teleporting vehicle 'midday_ramp.228'; waited too long (yield), lane='E2_0', time=168239.00.
+Warning: Vehicle 'midday_ramp.228' ends teleporting on edge 'E1', time=168239.00.
+Warning: Teleporting vehicle 'midday_ramp.229'; waited too long (yield), lane='E2_0', time=168544.00.
+Warning: Vehicle 'midday_ramp.229' ends teleporting on edge 'E1', time=168544.00.
+Warning: Teleporting vehicle 'midday_ramp.230'; waited too long (yield), lane='E2_0', time=168848.00.
+Warning: Vehicle 'midday_ramp.230' ends teleporting on edge 'E1', time=168848.00.
+Warning: Teleporting vehicle 'midday_ramp.231'; waited too long (yield), lane='E2_0', time=169153.00.
+Warning: Vehicle 'midday_ramp.231' ends teleporting on edge 'E1', time=169153.00.
+Warning: Teleporting vehicle 'midday_ramp.232'; waited too long (yield), lane='E2_0', time=169459.00.
+Warning: Vehicle 'midday_ramp.232' ends teleporting on edge 'E1', time=169459.00.
+Warning: Teleporting vehicle 'midday_ramp.233'; waited too long (yield), lane='E2_0', time=169764.00.
+Warning: Vehicle 'midday_ramp.233' ends teleporting on edge 'E1', time=169764.00.
+Warning: Teleporting vehicle 'midday_ramp.234'; waited too long (yield), lane='E2_0', time=170070.00.
+Warning: Vehicle 'midday_ramp.234' ends teleporting on edge 'E1', time=170070.00.
+Warning: Teleporting vehicle 'midday_ramp.235'; waited too long (yield), lane='E2_0', time=170375.00.
+Warning: Vehicle 'midday_ramp.235' ends teleporting on edge 'E1', time=170375.00.
+Warning: Teleporting vehicle 'midday_ramp.236'; waited too long (yield), lane='E2_0', time=170680.00.
+Warning: Vehicle 'midday_ramp.236' ends teleporting on edge 'E1', time=170680.00.
+Warning: Teleporting vehicle 'midday_ramp.237'; waited too long (yield), lane='E2_0', time=170985.00.
+Warning: Vehicle 'midday_ramp.237' ends teleporting on edge 'E1', time=170985.00.
+Warning: Teleporting vehicle 'midday_ramp.238'; waited too long (yield), lane='E2_0', time=171290.00.
+Warning: Vehicle 'midday_ramp.238' ends teleporting on edge 'E1', time=171290.00.
+Warning: Teleporting vehicle 'midday_ramp.239'; waited too long (yield), lane='E2_0', time=171595.00.
+Warning: Vehicle 'midday_ramp.239' ends teleporting on edge 'E1', time=171595.00.
+Warning: Teleporting vehicle 'midday_ramp.240'; waited too long (yield), lane='E2_0', time=171901.00.
+Warning: Vehicle 'midday_ramp.240' ends teleporting on edge 'E1', time=171901.00.
+Warning: Teleporting vehicle 'midday_ramp.241'; waited too long (yield), lane='E2_0', time=172206.00.
+Warning: Vehicle 'midday_ramp.241' ends teleporting on edge 'E1', time=172206.00.
+Warning: Teleporting vehicle 'midday_ramp.242'; waited too long (yield), lane='E2_0', time=172511.00.
+Warning: Vehicle 'midday_ramp.242' ends teleporting on edge 'E1', time=172511.00.
+Warning: Teleporting vehicle 'midday_ramp.243'; waited too long (yield), lane='E2_0', time=172815.00.
+Warning: Vehicle 'midday_ramp.243' ends teleporting on edge 'E1', time=172815.00.
+Warning: Teleporting vehicle 'midday_ramp.244'; waited too long (yield), lane='E2_0', time=173121.00.
+Warning: Vehicle 'midday_ramp.244' ends teleporting on edge 'E1', time=173121.00.
+Warning: Teleporting vehicle 'midday_ramp.245'; waited too long (yield), lane='E2_0', time=173425.00.
+Warning: Vehicle 'midday_ramp.245' ends teleporting on edge 'E1', time=173425.00.
+Warning: Teleporting vehicle 'midday_ramp.246'; waited too long (yield), lane='E2_0', time=173729.00.
+Warning: Vehicle 'midday_ramp.246' ends teleporting on edge 'E1', time=173729.00.
+Warning: Teleporting vehicle 'midday_ramp.247'; waited too long (yield), lane='E2_0', time=174033.00.
+Warning: Vehicle 'midday_ramp.247' ends teleporting on edge 'E1', time=174033.00.
+Warning: Teleporting vehicle 'midday_ramp.248'; waited too long (yield), lane='E2_0', time=174337.00.
+Warning: Vehicle 'midday_ramp.248' ends teleporting on edge 'E1', time=174337.00.
+Warning: Teleporting vehicle 'midday_ramp.249'; waited too long (yield), lane='E2_0', time=174643.00.
+Warning: Vehicle 'midday_ramp.249' ends teleporting on edge 'E1', time=174643.00.
+Warning: Teleporting vehicle 'midday_ramp.250'; waited too long (yield), lane='E2_0', time=174948.00.
+Warning: Vehicle 'midday_ramp.250' ends teleporting on edge 'E1', time=174948.00.
+Warning: Teleporting vehicle 'midday_ramp.251'; waited too long (yield), lane='E2_0', time=175254.00.
+Warning: Vehicle 'midday_ramp.251' ends teleporting on edge 'E1', time=175254.00.
+Warning: Teleporting vehicle 'midday_ramp.252'; waited too long (yield), lane='E2_0', time=175559.00.
+Warning: Vehicle 'midday_ramp.252' ends teleporting on edge 'E1', time=175559.00.
+Warning: Teleporting vehicle 'midday_ramp.253'; waited too long (yield), lane='E2_0', time=175865.00.
+Warning: Vehicle 'midday_ramp.253' ends teleporting on edge 'E1', time=175865.00.
+Warning: Teleporting vehicle 'midday_ramp.254'; waited too long (yield), lane='E2_0', time=176169.00.
+Warning: Vehicle 'midday_ramp.254' ends teleporting on edge 'E1', time=176169.00.
+Warning: Teleporting vehicle 'midday_ramp.255'; waited too long (yield), lane='E2_0', time=176473.00.
+Warning: Vehicle 'midday_ramp.255' ends teleporting on edge 'E1', time=176473.00.
+Warning: Teleporting vehicle 'midday_ramp.256'; waited too long (yield), lane='E2_0', time=176778.00.
+Warning: Vehicle 'midday_ramp.256' ends teleporting on edge 'E1', time=176778.00.
+Warning: Teleporting vehicle 'midday_ramp.257'; waited too long (yield), lane='E2_0', time=177084.00.
+Warning: Vehicle 'midday_ramp.257' ends teleporting on edge 'E1', time=177084.00.
+Warning: Teleporting vehicle 'midday_ramp.258'; waited too long (yield), lane='E2_0', time=177388.00.
+Warning: Vehicle 'midday_ramp.258' ends teleporting on edge 'E1', time=177388.00.
+Warning: Teleporting vehicle 'midday_ramp.259'; waited too long (yield), lane='E2_0', time=177694.00.
+Warning: Vehicle 'midday_ramp.259' ends teleporting on edge 'E1', time=177694.00.
+Warning: Teleporting vehicle 'midday_ramp.260'; waited too long (yield), lane='E2_0', time=177999.00.
+Warning: Vehicle 'midday_ramp.260' ends teleporting on edge 'E1', time=177999.00.
+Warning: Teleporting vehicle 'midday_ramp.261'; waited too long (yield), lane='E2_0', time=178304.00.
+Warning: Vehicle 'midday_ramp.261' ends teleporting on edge 'E1', time=178304.00.
+Warning: Teleporting vehicle 'midday_ramp.262'; waited too long (yield), lane='E2_0', time=178609.00.
+Warning: Vehicle 'midday_ramp.262' ends teleporting on edge 'E1', time=178609.00.
+Warning: Teleporting vehicle 'midday_ramp.263'; waited too long (yield), lane='E2_0', time=178913.00.
+Warning: Vehicle 'midday_ramp.263' ends teleporting on edge 'E1', time=178913.00.
+Warning: Teleporting vehicle 'midday_ramp.264'; waited too long (yield), lane='E2_0', time=179217.00.
+Warning: Vehicle 'midday_ramp.264' ends teleporting on edge 'E1', time=179217.00.
+Warning: Teleporting vehicle 'midday_ramp.265'; waited too long (yield), lane='E2_0', time=179522.00.
+Warning: Vehicle 'midday_ramp.265' ends teleporting on edge 'E1', time=179522.00.
+Warning: Teleporting vehicle 'midday_ramp.266'; waited too long (yield), lane='E2_0', time=179827.00.
+Warning: Vehicle 'midday_ramp.266' ends teleporting on edge 'E1', time=179827.00.
+Warning: Teleporting vehicle 'midday_ramp.267'; waited too long (yield), lane='E2_0', time=180132.00.
+Warning: Vehicle 'midday_ramp.267' ends teleporting on edge 'E1', time=180132.00.
+Warning: Teleporting vehicle 'midday_ramp.268'; waited too long (yield), lane='E2_0', time=180437.00.
+Warning: Vehicle 'midday_ramp.268' ends teleporting on edge 'E1', time=180437.00.
+Warning: Teleporting vehicle 'midday_ramp.269'; waited too long (yield), lane='E2_0', time=180742.00.
+Warning: Vehicle 'midday_ramp.269' ends teleporting on edge 'E1', time=180742.00.
+Warning: Teleporting vehicle 'midday_ramp.270'; waited too long (yield), lane='E2_0', time=181048.00.
+Warning: Vehicle 'midday_ramp.270' ends teleporting on edge 'E1', time=181048.00.
+Warning: Teleporting vehicle 'midday_ramp.271'; waited too long (yield), lane='E2_0', time=181352.00.
+Warning: Vehicle 'midday_ramp.271' ends teleporting on edge 'E1', time=181352.00.
+Warning: Teleporting vehicle 'midday_ramp.272'; waited too long (yield), lane='E2_0', time=181657.00.
+Warning: Vehicle 'midday_ramp.272' ends teleporting on edge 'E1', time=181657.00.
+Warning: Teleporting vehicle 'midday_ramp.273'; waited too long (yield), lane='E2_0', time=181963.00.
+Warning: Vehicle 'midday_ramp.273' ends teleporting on edge 'E1', time=181963.00.
+Warning: Teleporting vehicle 'midday_ramp.274'; waited too long (yield), lane='E2_0', time=182267.00.
+Warning: Vehicle 'midday_ramp.274' ends teleporting on edge 'E1', time=182267.00.
+Warning: Teleporting vehicle 'midday_ramp.275'; waited too long (yield), lane='E2_0', time=182571.00.
+Warning: Vehicle 'midday_ramp.275' ends teleporting on edge 'E1', time=182571.00.
+Warning: Teleporting vehicle 'midday_ramp.276'; waited too long (yield), lane='E2_0', time=182877.00.
+Warning: Vehicle 'midday_ramp.276' ends teleporting on edge 'E1', time=182877.00.
+Warning: Teleporting vehicle 'midday_ramp.277'; waited too long (yield), lane='E2_0', time=183182.00.
+Warning: Vehicle 'midday_ramp.277' ends teleporting on edge 'E1', time=183182.00.
+Warning: Teleporting vehicle 'midday_ramp.278'; waited too long (yield), lane='E2_0', time=183486.00.
+Warning: Vehicle 'midday_ramp.278' ends teleporting on edge 'E1', time=183486.00.
+Warning: Teleporting vehicle 'midday_ramp.279'; waited too long (yield), lane='E2_0', time=183790.00.
+Warning: Vehicle 'midday_ramp.279' ends teleporting on edge 'E1', time=183790.00.
+Warning: Teleporting vehicle 'midday_ramp.280'; waited too long (yield), lane='E2_0', time=184094.00.
+Warning: Vehicle 'midday_ramp.280' ends teleporting on edge 'E1', time=184094.00.
+Warning: Teleporting vehicle 'midday_ramp.281'; waited too long (yield), lane='E2_0', time=184399.00.
+Warning: Vehicle 'midday_ramp.281' ends teleporting on edge 'E1', time=184399.00.
+Warning: Teleporting vehicle 'midday_ramp.282'; waited too long (yield), lane='E2_0', time=184704.00.
+Warning: Vehicle 'midday_ramp.282' ends teleporting on edge 'E1', time=184704.00.
+Warning: Teleporting vehicle 'midday_ramp.283'; waited too long (yield), lane='E2_0', time=185009.00.
+Warning: Vehicle 'midday_ramp.283' ends teleporting on edge 'E1', time=185009.00.
+Warning: Teleporting vehicle 'midday_ramp.284'; waited too long (yield), lane='E2_0', time=185314.00.
+Warning: Vehicle 'midday_ramp.284' ends teleporting on edge 'E1', time=185314.00.
+Warning: Teleporting vehicle 'midday_ramp.285'; waited too long (yield), lane='E2_0', time=185620.00.
+Warning: Vehicle 'midday_ramp.285' ends teleporting on edge 'E1', time=185620.00.
+Warning: Teleporting vehicle 'midday_ramp.286'; waited too long (yield), lane='E2_0', time=185925.00.
+Warning: Vehicle 'midday_ramp.286' ends teleporting on edge 'E1', time=185925.00.
+Warning: Teleporting vehicle 'midday_ramp.287'; waited too long (yield), lane='E2_0', time=186230.00.
+Warning: Vehicle 'midday_ramp.287' ends teleporting on edge 'E1', time=186230.00.
+Warning: Teleporting vehicle 'midday_ramp.288'; waited too long (yield), lane='E2_0', time=186534.00.
+Warning: Vehicle 'midday_ramp.288' ends teleporting on edge 'E1', time=186534.00.
+Warning: Teleporting vehicle 'midday_ramp.289'; waited too long (yield), lane='E2_0', time=186839.00.
+Warning: Vehicle 'midday_ramp.289' ends teleporting on edge 'E1', time=186839.00.
+Warning: Teleporting vehicle 'midday_ramp.290'; waited too long (yield), lane='E2_0', time=187143.00.
+Warning: Vehicle 'midday_ramp.290' ends teleporting on edge 'E1', time=187143.00.
+Warning: Teleporting vehicle 'midday_ramp.291'; waited too long (yield), lane='E2_0', time=187447.00.
+Warning: Vehicle 'midday_ramp.291' ends teleporting on edge 'E1', time=187447.00.
+Warning: Teleporting vehicle 'midday_ramp.292'; waited too long (yield), lane='E2_0', time=187752.00.
+Warning: Vehicle 'midday_ramp.292' ends teleporting on edge 'E1', time=187752.00.
+Warning: Teleporting vehicle 'midday_ramp.293'; waited too long (yield), lane='E2_0', time=188056.00.
+Warning: Vehicle 'midday_ramp.293' ends teleporting on edge 'E1', time=188056.00.
+Warning: Teleporting vehicle 'midday_ramp.294'; waited too long (yield), lane='E2_0', time=188361.00.
+Warning: Vehicle 'midday_ramp.294' ends teleporting on edge 'E1', time=188361.00.
+Warning: Teleporting vehicle 'midday_ramp.295'; waited too long (yield), lane='E2_0', time=188665.00.
+Warning: Vehicle 'midday_ramp.295' ends teleporting on edge 'E1', time=188665.00.
+Warning: Teleporting vehicle 'midday_ramp.296'; waited too long (yield), lane='E2_0', time=188969.00.
+Warning: Vehicle 'midday_ramp.296' ends teleporting on edge 'E1', time=188969.00.
+Warning: Teleporting vehicle 'midday_ramp.297'; waited too long (yield), lane='E2_0', time=189275.00.
+Warning: Vehicle 'midday_ramp.297' ends teleporting on edge 'E1', time=189275.00.
+Warning: Teleporting vehicle 'midday_ramp.298'; waited too long (yield), lane='E2_0', time=189579.00.
+Warning: Vehicle 'midday_ramp.298' ends teleporting on edge 'E1', time=189579.00.
+Warning: Teleporting vehicle 'midday_ramp.299'; waited too long (yield), lane='E2_0', time=189884.00.
+Warning: Vehicle 'midday_ramp.299' ends teleporting on edge 'E1', time=189884.00.
+Warning: Teleporting vehicle 'midday_ramp.300'; waited too long (yield), lane='E2_0', time=190190.00.
+Warning: Vehicle 'midday_ramp.300' ends teleporting on edge 'E1', time=190190.00.
+Warning: Teleporting vehicle 'midday_ramp.301'; waited too long (yield), lane='E2_0', time=190495.00.
+Warning: Vehicle 'midday_ramp.301' ends teleporting on edge 'E1', time=190495.00.
+Warning: Teleporting vehicle 'midday_ramp.302'; waited too long (yield), lane='E2_0', time=190800.00.
+Warning: Vehicle 'midday_ramp.302' ends teleporting on edge 'E1', time=190800.00.
+Warning: Teleporting vehicle 'midday_ramp.303'; waited too long (yield), lane='E2_0', time=191104.00.
+Warning: Vehicle 'midday_ramp.303' ends teleporting on edge 'E1', time=191104.00.
+Warning: Teleporting vehicle 'midday_ramp.304'; waited too long (yield), lane='E2_0', time=191409.00.
+Warning: Vehicle 'midday_ramp.304' ends teleporting on edge 'E1', time=191409.00.
+Warning: Teleporting vehicle 'midday_ramp.305'; waited too long (yield), lane='E2_0', time=191713.00.
+Warning: Vehicle 'midday_ramp.305' ends teleporting on edge 'E1', time=191713.00.
+Warning: Teleporting vehicle 'midday_ramp.306'; waited too long (yield), lane='E2_0', time=192017.00.
+Warning: Vehicle 'midday_ramp.306' ends teleporting on edge 'E1', time=192017.00.
+Warning: Teleporting vehicle 'midday_ramp.307'; waited too long (yield), lane='E2_0', time=192322.00.
+Warning: Vehicle 'midday_ramp.307' ends teleporting on edge 'E1', time=192322.00.
+Warning: Teleporting vehicle 'midday_ramp.308'; waited too long (yield), lane='E2_0', time=192627.00.
+Warning: Vehicle 'midday_ramp.308' ends teleporting on edge 'E1', time=192627.00.
+Warning: Teleporting vehicle 'midday_ramp.309'; waited too long (yield), lane='E2_0', time=192932.00.
+Warning: Vehicle 'midday_ramp.309' ends teleporting on edge 'E1', time=192932.00.
+Warning: Teleporting vehicle 'midday_ramp.310'; waited too long (yield), lane='E2_0', time=193238.00.
+Warning: Vehicle 'midday_ramp.310' ends teleporting on edge 'E1', time=193238.00.
+Warning: Teleporting vehicle 'midday_ramp.311'; waited too long (yield), lane='E2_0', time=193543.00.
+Warning: Vehicle 'midday_ramp.311' ends teleporting on edge 'E1', time=193543.00.
+Warning: Teleporting vehicle 'midday_ramp.312'; waited too long (yield), lane='E2_0', time=193848.00.
+Warning: Vehicle 'midday_ramp.312' ends teleporting on edge 'E1', time=193848.00.
+Warning: Teleporting vehicle 'midday_ramp.313'; waited too long (yield), lane='E2_0', time=194153.00.
+Warning: Vehicle 'midday_ramp.313' ends teleporting on edge 'E1', time=194153.00.
+Warning: Teleporting vehicle 'midday_ramp.314'; waited too long (yield), lane='E2_0', time=194459.00.
+Warning: Vehicle 'midday_ramp.314' ends teleporting on edge 'E1', time=194459.00.
+Warning: Teleporting vehicle 'midday_ramp.315'; waited too long (yield), lane='E2_0', time=194764.00.
+Warning: Vehicle 'midday_ramp.315' ends teleporting on edge 'E1', time=194764.00.
+Warning: Teleporting vehicle 'midday_ramp.316'; waited too long (yield), lane='E2_0', time=195069.00.
+Warning: Vehicle 'midday_ramp.316' ends teleporting on edge 'E1', time=195069.00.
+Warning: Teleporting vehicle 'midday_ramp.317'; waited too long (yield), lane='E2_0', time=195375.00.
+Warning: Vehicle 'midday_ramp.317' ends teleporting on edge 'E1', time=195375.00.
+Warning: Teleporting vehicle 'midday_ramp.318'; waited too long (yield), lane='E2_0', time=195681.00.
+Warning: Vehicle 'midday_ramp.318' ends teleporting on edge 'E1', time=195681.00.
+Warning: Teleporting vehicle 'midday_ramp.319'; waited too long (yield), lane='E2_0', time=195985.00.
+Warning: Vehicle 'midday_ramp.319' ends teleporting on edge 'E1', time=195985.00.
+Warning: Teleporting vehicle 'midday_ramp.320'; waited too long (yield), lane='E2_0', time=196290.00.
+Warning: Vehicle 'midday_ramp.320' ends teleporting on edge 'E1', time=196290.00.
+Warning: Teleporting vehicle 'midday_ramp.321'; waited too long (yield), lane='E2_0', time=196596.00.
+Warning: Vehicle 'midday_ramp.321' ends teleporting on edge 'E1', time=196596.00.
+Warning: Teleporting vehicle 'midday_ramp.322'; waited too long (yield), lane='E2_0', time=196900.00.
+Warning: Vehicle 'midday_ramp.322' ends teleporting on edge 'E1', time=196900.00.
+Warning: Teleporting vehicle 'midday_ramp.323'; waited too long (yield), lane='E2_0', time=197205.00.
+Warning: Vehicle 'midday_ramp.323' ends teleporting on edge 'E1', time=197205.00.
+Warning: Teleporting vehicle 'midday_ramp.324'; waited too long (yield), lane='E2_0', time=197510.00.
+Warning: Vehicle 'midday_ramp.324' ends teleporting on edge 'E1', time=197510.00.
+Warning: Teleporting vehicle 'midday_ramp.325'; waited too long (yield), lane='E2_0', time=197815.00.
+Warning: Vehicle 'midday_ramp.325' ends teleporting on edge 'E1', time=197815.00.
+Warning: Teleporting vehicle 'midday_ramp.326'; waited too long (yield), lane='E2_0', time=198119.00.
+Warning: Vehicle 'midday_ramp.326' ends teleporting on edge 'E1', time=198119.00.
+Warning: Teleporting vehicle 'midday_ramp.327'; waited too long (yield), lane='E2_0', time=198425.00.
+Warning: Vehicle 'midday_ramp.327' ends teleporting on edge 'E1', time=198425.00.
+Warning: Teleporting vehicle 'midday_ramp.328'; waited too long (yield), lane='E2_0', time=198731.00.
+Warning: Vehicle 'midday_ramp.328' ends teleporting on edge 'E1', time=198731.00.
+Warning: Teleporting vehicle 'midday_ramp.329'; waited too long (yield), lane='E2_0', time=199036.00.
+Warning: Vehicle 'midday_ramp.329' ends teleporting on edge 'E1', time=199036.00.
+Warning: Teleporting vehicle 'midday_ramp.330'; waited too long (yield), lane='E2_0', time=199342.00.
+Warning: Vehicle 'midday_ramp.330' ends teleporting on edge 'E1', time=199342.00.
+Warning: Teleporting vehicle 'midday_ramp.331'; waited too long (yield), lane='E2_0', time=199646.00.
+Warning: Vehicle 'midday_ramp.331' ends teleporting on edge 'E1', time=199646.00.
+Warning: Teleporting vehicle 'midday_ramp.332'; waited too long (yield), lane='E2_0', time=199950.00.
+Warning: Vehicle 'midday_ramp.332' ends teleporting on edge 'E1', time=199950.00.
+Warning: Teleporting vehicle 'midday_ramp.333'; waited too long (yield), lane='E2_0', time=200254.00.
+Warning: Vehicle 'midday_ramp.333' ends teleporting on edge 'E1', time=200254.00.
+Warning: Teleporting vehicle 'midday_ramp.334'; waited too long (yield), lane='E2_0', time=200560.00.
+Warning: Vehicle 'midday_ramp.334' ends teleporting on edge 'E1', time=200560.00.
+Warning: Teleporting vehicle 'midday_ramp.335'; waited too long (yield), lane='E2_0', time=200865.00.
+Warning: Vehicle 'midday_ramp.335' ends teleporting on edge 'E1', time=200865.00.
+Warning: Teleporting vehicle 'midday_ramp.336'; waited too long (yield), lane='E2_0', time=201170.00.
+Warning: Vehicle 'midday_ramp.336' ends teleporting on edge 'E1', time=201170.00.
+Warning: Teleporting vehicle 'midday_ramp.337'; waited too long (yield), lane='E2_0', time=201474.00.
+Warning: Vehicle 'midday_ramp.337' ends teleporting on edge 'E1', time=201474.00.
+Warning: Teleporting vehicle 'midday_ramp.338'; waited too long (yield), lane='E2_0', time=201778.00.
+Warning: Vehicle 'midday_ramp.338' ends teleporting on edge 'E1', time=201778.00.
+Warning: Teleporting vehicle 'midday_ramp.339'; waited too long (yield), lane='E2_0', time=202083.00.
+Warning: Vehicle 'midday_ramp.339' ends teleporting on edge 'E1', time=202083.00.
+Warning: Teleporting vehicle 'midday_ramp.340'; waited too long (yield), lane='E2_0', time=202389.00.
+Warning: Vehicle 'midday_ramp.340' ends teleporting on edge 'E1', time=202389.00.
+Warning: Teleporting vehicle 'midday_ramp.341'; waited too long (yield), lane='E2_0', time=202694.00.
+Warning: Vehicle 'midday_ramp.341' ends teleporting on edge 'E1', time=202694.00.
+Warning: Teleporting vehicle 'midday_ramp.342'; waited too long (yield), lane='E2_0', time=203000.00.
+Warning: Vehicle 'midday_ramp.342' ends teleporting on edge 'E1', time=203000.00.
+Warning: Teleporting vehicle 'midday_ramp.343'; waited too long (yield), lane='E2_0', time=203304.00.
+Warning: Vehicle 'midday_ramp.343' ends teleporting on edge 'E1', time=203304.00.
+Warning: Teleporting vehicle 'midday_ramp.344'; waited too long (yield), lane='E2_0', time=203609.00.
+Warning: Vehicle 'midday_ramp.344' ends teleporting on edge 'E1', time=203609.00.
+Warning: Teleporting vehicle 'midday_ramp.345'; waited too long (yield), lane='E2_0', time=203914.00.
+Warning: Vehicle 'midday_ramp.345' ends teleporting on edge 'E1', time=203914.00.
+Warning: Teleporting vehicle 'midday_ramp.346'; waited too long (yield), lane='E2_0', time=204220.00.
+Warning: Vehicle 'midday_ramp.346' ends teleporting on edge 'E1', time=204220.00.
+Warning: Teleporting vehicle 'midday_ramp.347'; waited too long (yield), lane='E2_0', time=204525.00.
+Warning: Vehicle 'midday_ramp.347' ends teleporting on edge 'E1', time=204525.00.
+Warning: Teleporting vehicle 'midday_ramp.348'; waited too long (yield), lane='E2_0', time=204831.00.
+Warning: Vehicle 'midday_ramp.348' ends teleporting on edge 'E1', time=204831.00.
+Warning: Teleporting vehicle 'midday_ramp.349'; waited too long (yield), lane='E2_0', time=205137.00.
+Warning: Vehicle 'midday_ramp.349' ends teleporting on edge 'E1', time=205137.00.
+Warning: Teleporting vehicle 'midday_ramp.350'; waited too long (yield), lane='E2_0', time=205442.00.
+Warning: Vehicle 'midday_ramp.350' ends teleporting on edge 'E1', time=205442.00.
+Warning: Teleporting vehicle 'midday_ramp.351'; waited too long (yield), lane='E2_0', time=205747.00.
+Warning: Vehicle 'midday_ramp.351' ends teleporting on edge 'E1', time=205747.00.
+Warning: Teleporting vehicle 'midday_ramp.352'; waited too long (yield), lane='E2_0', time=206054.00.
+Warning: Vehicle 'midday_ramp.352' ends teleporting on edge 'E1', time=206054.00.
+Warning: Teleporting vehicle 'midday_ramp.353'; waited too long (yield), lane='E2_0', time=206359.00.
+Warning: Vehicle 'midday_ramp.353' ends teleporting on edge 'E1', time=206359.00.
+Warning: Teleporting vehicle 'midday_ramp.354'; waited too long (yield), lane='E2_0', time=206664.00.
+Warning: Vehicle 'midday_ramp.354' ends teleporting on edge 'E1', time=206664.00.
+Warning: Teleporting vehicle 'midday_ramp.355'; waited too long (yield), lane='E2_0', time=206969.00.
+Warning: Vehicle 'midday_ramp.355' ends teleporting on edge 'E1', time=206969.00.
+Warning: Teleporting vehicle 'midday_ramp.356'; waited too long (yield), lane='E2_0', time=207274.00.
+Warning: Vehicle 'midday_ramp.356' ends teleporting on edge 'E1', time=207274.00.
+Warning: Teleporting vehicle 'midday_ramp.357'; waited too long (yield), lane='E2_0', time=207579.00.
+Warning: Vehicle 'midday_ramp.357' ends teleporting on edge 'E1', time=207579.00.
+Warning: Teleporting vehicle 'midday_ramp.358'; waited too long (yield), lane='E2_0', time=207885.00.
+Warning: Vehicle 'midday_ramp.358' ends teleporting on edge 'E1', time=207885.00.
+Warning: Teleporting vehicle 'midday_ramp.359'; waited too long (yield), lane='E2_0', time=208190.00.
+Warning: Vehicle 'midday_ramp.359' ends teleporting on edge 'E1', time=208190.00.
+Warning: Teleporting vehicle 'midday_ramp.360'; waited too long (yield), lane='E2_0', time=208495.00.
+Warning: Vehicle 'midday_ramp.360' ends teleporting on edge 'E1', time=208495.00.
+Warning: Teleporting vehicle 'midday_ramp.361'; waited too long (yield), lane='E2_0', time=208799.00.
+Warning: Vehicle 'midday_ramp.361' ends teleporting on edge 'E1', time=208799.00.
+Warning: Teleporting vehicle 'midday_ramp.362'; waited too long (yield), lane='E2_0', time=209103.00.
+Warning: Vehicle 'midday_ramp.362' ends teleporting on edge 'E1', time=209103.00.
+Warning: Teleporting vehicle 'midday_ramp.363'; waited too long (yield), lane='E2_0', time=209410.00.
+Warning: Vehicle 'midday_ramp.363' ends teleporting on edge 'E1', time=209410.00.
+Warning: Teleporting vehicle 'midday_ramp.364'; waited too long (yield), lane='E2_0', time=209717.00.
+Warning: Vehicle 'midday_ramp.364' ends teleporting on edge 'E1', time=209717.00.
+Warning: Teleporting vehicle 'midday_ramp.365'; waited too long (yield), lane='E2_0', time=210021.00.
+Warning: Vehicle 'midday_ramp.365' ends teleporting on edge 'E1', time=210021.00.
+Warning: Teleporting vehicle 'midday_ramp.366'; waited too long (yield), lane='E2_0', time=210327.00.
+Warning: Vehicle 'midday_ramp.366' ends teleporting on edge 'E1', time=210327.00.
+Warning: Teleporting vehicle 'midday_ramp.367'; waited too long (yield), lane='E2_0', time=210632.00.
+Warning: Vehicle 'midday_ramp.367' ends teleporting on edge 'E1', time=210632.00.
+Warning: Teleporting vehicle 'midday_ramp.368'; waited too long (yield), lane='E2_0', time=210938.00.
+Warning: Vehicle 'midday_ramp.368' ends teleporting on edge 'E1', time=210938.00.
+Warning: Teleporting vehicle 'midday_ramp.369'; waited too long (yield), lane='E2_0', time=211243.00.
+Warning: Vehicle 'midday_ramp.369' ends teleporting on edge 'E1', time=211243.00.
+Warning: Teleporting vehicle 'midday_ramp.370'; waited too long (yield), lane='E2_0', time=211549.00.
+Warning: Vehicle 'midday_ramp.370' ends teleporting on edge 'E1', time=211549.00.
+Warning: Teleporting vehicle 'midday_ramp.371'; waited too long (yield), lane='E2_0', time=211855.00.
+Warning: Vehicle 'midday_ramp.371' ends teleporting on edge 'E1', time=211855.00.
+Warning: Teleporting vehicle 'midday_ramp.372'; waited too long (yield), lane='E2_0', time=212161.00.
+Warning: Vehicle 'midday_ramp.372' ends teleporting on edge 'E1', time=212161.00.
+Warning: Teleporting vehicle 'midday_ramp.373'; waited too long (yield), lane='E2_0', time=212466.00.
+Warning: Vehicle 'midday_ramp.373' ends teleporting on edge 'E1', time=212466.00.
+Warning: Teleporting vehicle 'midday_ramp.374'; waited too long (yield), lane='E2_0', time=212772.00.
+Warning: Vehicle 'midday_ramp.374' ends teleporting on edge 'E1', time=212772.00.
+Warning: Teleporting vehicle 'midday_ramp.375'; waited too long (yield), lane='E2_0', time=213076.00.
+Warning: Vehicle 'midday_ramp.375' ends teleporting on edge 'E1', time=213076.00.
+Warning: Teleporting vehicle 'midday_ramp.376'; waited too long (yield), lane='E2_0', time=213380.00.
+Warning: Vehicle 'midday_ramp.376' ends teleporting on edge 'E1', time=213380.00.
+Warning: Teleporting vehicle 'midday_ramp.377'; waited too long (yield), lane='E2_0', time=213685.00.
+Warning: Vehicle 'midday_ramp.377' ends teleporting on edge 'E1', time=213685.00.
+Warning: Teleporting vehicle 'midday_ramp.378'; waited too long (yield), lane='E2_0', time=213990.00.
+Warning: Vehicle 'midday_ramp.378' ends teleporting on edge 'E1', time=213990.00.
+Warning: Teleporting vehicle 'midday_ramp.379'; waited too long (yield), lane='E2_0', time=214294.00.
+Warning: Vehicle 'midday_ramp.379' ends teleporting on edge 'E1', time=214294.00.
+Warning: Teleporting vehicle 'midday_ramp.380'; waited too long (yield), lane='E2_0', time=214599.00.
+Warning: Vehicle 'midday_ramp.380' ends teleporting on edge 'E1', time=214599.00.
+Warning: Teleporting vehicle 'midday_ramp.381'; waited too long (yield), lane='E2_0', time=214903.00.
+Warning: Vehicle 'midday_ramp.381' ends teleporting on edge 'E1', time=214903.00.
+Warning: Teleporting vehicle 'midday_ramp.382'; waited too long (yield), lane='E2_0', time=215207.00.
+Warning: Vehicle 'midday_ramp.382' ends teleporting on edge 'E1', time=215207.00.
+Warning: Teleporting vehicle 'midday_ramp.383'; waited too long (yield), lane='E2_0', time=215512.00.
+Warning: Vehicle 'midday_ramp.383' ends teleporting on edge 'E1', time=215512.00.
+Warning: Teleporting vehicle 'midday_ramp.384'; waited too long (yield), lane='E2_0', time=215816.00.
+Warning: Vehicle 'midday_ramp.384' ends teleporting on edge 'E1', time=215816.00.
+Warning: Teleporting vehicle 'midday_ramp.385'; waited too long (yield), lane='E2_0', time=216122.00.
+Warning: Vehicle 'midday_ramp.385' ends teleporting on edge 'E1', time=216122.00.
+Warning: Teleporting vehicle 'midday_ramp.386'; waited too long (yield), lane='E2_0', time=216426.00.
+Warning: Vehicle 'midday_ramp.386' ends teleporting on edge 'E1', time=216426.00.
+Warning: Teleporting vehicle 'midday_ramp.387'; waited too long (yield), lane='E2_0', time=216730.00.
+Warning: Vehicle 'midday_ramp.387' ends teleporting on edge 'E1', time=216730.00.
+Warning: Teleporting vehicle 'midday_ramp.388'; waited too long (yield), lane='E2_0', time=217035.00.
+Warning: Vehicle 'midday_ramp.388' ends teleporting on edge 'E1', time=217035.00.
+Warning: Teleporting vehicle 'midday_ramp.389'; waited too long (yield), lane='E2_0', time=217340.00.
+Warning: Vehicle 'midday_ramp.389' ends teleporting on edge 'E1', time=217340.00.
+Warning: Teleporting vehicle 'midday_ramp.390'; waited too long (yield), lane='E2_0', time=217645.00.
+Warning: Vehicle 'midday_ramp.390' ends teleporting on edge 'E1', time=217645.00.
+Warning: Teleporting vehicle 'midday_ramp.391'; waited too long (yield), lane='E2_0', time=217951.00.
+Warning: Vehicle 'midday_ramp.391' ends teleporting on edge 'E1', time=217951.00.
+Warning: Teleporting vehicle 'midday_ramp.392'; waited too long (yield), lane='E2_0', time=218256.00.
+Warning: Vehicle 'midday_ramp.392' ends teleporting on edge 'E1', time=218256.00.
+Warning: Teleporting vehicle 'midday_ramp.393'; waited too long (yield), lane='E2_0', time=218563.00.
+Warning: Vehicle 'midday_ramp.393' ends teleporting on edge 'E1', time=218563.00.
+Warning: Teleporting vehicle 'midday_ramp.394'; waited too long (yield), lane='E2_0', time=218868.00.
+Warning: Vehicle 'midday_ramp.394' ends teleporting on edge 'E1', time=218868.00.
+Warning: Teleporting vehicle 'midday_ramp.395'; waited too long (yield), lane='E2_0', time=219173.00.
+Warning: Vehicle 'midday_ramp.395' ends teleporting on edge 'E1', time=219173.00.
+Warning: Teleporting vehicle 'midday_ramp.396'; waited too long (yield), lane='E2_0', time=219477.00.
+Warning: Vehicle 'midday_ramp.396' ends teleporting on edge 'E1', time=219477.00.
+Warning: Teleporting vehicle 'midday_ramp.397'; waited too long (yield), lane='E2_0', time=219783.00.
+Warning: Vehicle 'midday_ramp.397' ends teleporting on edge 'E1', time=219783.00.
+Warning: Teleporting vehicle 'midday_ramp.398'; waited too long (yield), lane='E2_0', time=220087.00.
+Warning: Vehicle 'midday_ramp.398' ends teleporting on edge 'E1', time=220087.00.
+Warning: Teleporting vehicle 'midday_ramp.399'; waited too long (yield), lane='E2_0', time=220393.00.
+Warning: Vehicle 'midday_ramp.399' ends teleporting on edge 'E1', time=220393.00.
+Warning: Teleporting vehicle 'evening_ramp.0'; waited too long (yield), lane='E2_0', time=220698.00.
+Warning: Vehicle 'evening_ramp.0' ends teleporting on edge 'E1', time=220698.00.
+Warning: Teleporting vehicle 'evening_ramp.1'; waited too long (yield), lane='E2_0', time=221003.00.
+Warning: Vehicle 'evening_ramp.1' ends teleporting on edge 'E1', time=221003.00.
+Simulation ended at time: 221016.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 710.44s
+ TraCI-Duration: 649.75s
+ Real time factor: 311.097
+ UPS: 1657.486910
+Vehicles:
+ Inserted: 5443
+ Running: 0
+ Waiting: 0
+ Teleports: 724 (Yield: 724)
+DijkstraRouter answered 9323 queries and explored 2.00 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).

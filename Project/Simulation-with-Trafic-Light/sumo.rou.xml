@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Traffic simulation with realistic flows -->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5.0" minGap="2.5" maxSpeed="33.33" guiShape="passenger"/>
+    <vType id="truck" accel="1.5" decel="3.0" sigma="0.5" length="10.0" minGap="3.0" maxSpeed="25.0" guiShape="truck"/>
+
+    
+    <!-- Morning peak traffic -->
+    <flow id="morning_ramp" begin="0" end="1800" from="E2" to="E1" vehsPerHour="700" departLane="random" departSpeed="max"/>
+    <flow id="morning_cars_highway" begin="0" end="1800" from="E0" to="E1" vehsPerHour="2000" departLane="free" departSpeed="random" type='car'/>
+    <flow id="morning_trucks_highway" begin="0" end="1800" from="E0" to="E1" vehsPerHour="400" departLane="free" departSpeed="random" type='truck'/>
+
+    <!-- Midday low traffic -->
+    <flow id="midday_ramp" begin="1800" end="3600" from="E2" to="E1" vehsPerHour="800" departLane="random" departSpeed="max"/>
+    <flow id="midday_cars_highway" begin="1800" end="3600" from="E0" to="E1" vehsPerHour="6000" departLane="free" departSpeed="random" type='car'/>
+    <flow id="midday_trucks_highway" begin="1800" end="3600" from="E0" to="E1" vehsPerHour="600" departLane="free" departSpeed="random" type='truck'/>
+
+    <!-- Evening peak traffic -->
+    <flow id="evening_ramp" begin="3600" end="5400" from="E2" to="E1" vehsPerHour="10" departLane="random" departSpeed="max"/>
+    <flow id="evening_highway" begin="3600" end="5400" from="E0" to="E1" vehsPerHour="75" departLane="free" departSpeed="random"/>
+    <flow id="evening_trucks_highway" begin="3600" end="5400" from="E0" to="E1" vehsPerHour="300" departLane="free" departSpeed="random" type='truck'/>
+</routes>
